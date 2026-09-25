@@ -86,7 +86,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/vishwa-director.jpg" width="130" height="130" style="border-radius:50%;object-fit:cover;border:3px solid #D4AF37;box-shadow:0 0 20px rgba(212,175,55,0.4);" alt="Vishwa Rathinam"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/vishwa-director.jpeg" width="130" height="130" style="border-radius:50%;object-fit:cover;border:3px solid #D4AF37;box-shadow:0 0 20px rgba(212,175,55,0.4);" alt="Vishwa Rathinam"/>
 </td>
 <td>
 
@@ -108,7 +108,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/ganesh-lead.jpg" width="130" height="130" style="border-radius:50%;object-fit:cover;border:3px solid #D4AF37;box-shadow:0 0 20px rgba(212,175,55,0.4);" alt="Ganesh Shankar"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/ganesh-lead.jpeg" width="130" height="130" style="border-radius:50%;object-fit:cover;border:3px solid #D4AF37;box-shadow:0 0 20px rgba(212,175,55,0.4);" alt="Ganesh Shankar"/>
 </td>
 <td>
 
