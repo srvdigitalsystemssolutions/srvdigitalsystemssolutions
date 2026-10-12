@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0A,50:1a1400,100:D4AF37&height=280&section=header&text=SRV%20DIGITAL%20SYSTEMS%20%26%20SOLUTIONS&fontSize=40&fontColor=D4AF37&fontAlignY=36&desc=Secure%20Systems.%20Reliable%20Solutions.%20Delivered.&descAlignY=54&descColor=F4E4A8&animation=fadeIn&stroke=D4AF37&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0A0A0A,50:1a1400,100:D4AF37&amp;height=280&amp;section=header&amp;text=SRV%20DIGITAL%20SYSTEMS%20%26%20SOLUTIONS&amp;fontSize=40&amp;fontColor=D4AF37&amp;fontAlignY=36&amp;desc=Secure%20Systems.%20Reliable%20Solutions.%20Delivered.&amp;descAlignY=54&amp;descColor=F4E4A8&amp;animation=fadeIn&amp;stroke=D4AF37&amp;strokeWidth=2" width="100%"/>
 
 <a href="https://github.com/srvdigitalsystemssolutions">
   <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&width=850&lines=%5B+SERVICES+%5D+65%2B+Offerings+%E2%80%94+Tech+%C2%B7+Design+%C2%B7+Hardware+%C2%B7+Security+%C2%B7+AI;%5B+TEAM+%5D+8+Specialists+%E2%80%94+Founder%2C+Directors+%26+Team+%E2%80%94+Chennai+%F0%9F%87%AE%F0%9F%87%B3;%5B+MISSION+%5D+Secure+Systems.+Reliable+Solutions.+Delivered.;%5B+EDGE+%5D+Hardware+%2B+Software+%2B+AI+%2B+Security+%2B+Automation+Under+One+Roof;%5B+STATUS+%5D+Open+for+Business+%E2%80%94+Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%5B+RESPONSE+%5D+We+reply+within+24+hours+on+business+days" alt="Typing SVG"/>
@@ -1387,7 +1387,7 @@ We work in stages with your written approval at each milestone. If cancelled mid
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1400,100:D4AF37&height=160&section=footer&text=SRV%20Digital%20Systems%20%26%20Solutions&fontSize=20&fontColor=D4AF37&fontAlignY=65&desc=Secure%20Systems.%20Reliable%20Solutions.%20Delivered.&descAlignY=80&descColor=F4E4A8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A0A,50:1a1400,100:D4AF37&amp;height=160&amp;section=footer&amp;text=SRV%20Digital%20Systems%20%26%20Solutions&amp;fontSize=20&amp;fontColor=D4AF37&amp;fontAlignY=65&amp;desc=Secure%20Systems.%20Reliable%20Solutions.%20Delivered.&amp;descAlignY=80&amp;descColor=F4E4A8"/>
 
 <div align="center">
 
