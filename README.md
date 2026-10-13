@@ -65,7 +65,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/sriram-director.jpg" width="120" alt="Sriram V"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Sriram-v.jpg" width="120" alt="Sriram V"/>
 
 ### Sriram V
 
@@ -88,7 +88,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/vishwa-director.jpeg" width="120" alt="Vishwa Rathinam S"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Vishwa-Rathinam-S.png" width="120" alt="Vishwa Rathinam S"/>
 
 ### Vishwa Rathinam S
 
@@ -112,7 +112,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/ganesh-lead.jpeg" width="120" alt="Ganesh S"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Ganesh-S.png" width="120" alt="Ganesh S"/>
 
 ### Ganesh S
 
@@ -133,7 +133,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEICquti9D7tA/profile-displayphoto-scale_400_400/B4DaEOMh3OJ8Ag-/0/1791239529116?e=1793232000&v=beta&t=6jO_cL7D3quI3wTtMT_OsyG_RKPYsAD6LngWI5v2nXc" width="120" alt="Venkat Charan V"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Venkat-Charan-V.png" width="120" alt="Venkat Charan V"/>
 
 ### Venkat Charan V
 
@@ -156,7 +156,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="120" alt="Siranjeevee R"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Siranjeevee-R.png" width="120" alt="Siranjeevee R"/>
 
 ### Siranjeevee R
 
@@ -179,7 +179,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="120" alt="Varun G"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Varun-G.png" width="120" alt="Varun G"/>
 
 ### Varun G
 
@@ -201,7 +201,7 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="120" alt="Praveen CK"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Praveen-CK.png" width="120" alt="Praveen CK"/>
 
 ### Praveen CK
 
