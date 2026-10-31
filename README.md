@@ -2,8 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1C1C1C,50:2A2A2A,100:B28228&height=240&section=header&text=SRV%20DIGITAL&fontSize=52&fontColor=FFE002&fontAlignY=38&desc=SYSTEMS%20%26%20SOLUTIONS&descAlignY=62&descSize=20&descColor=FFB606&animation=fadeIn&stroke=B28228&strokeWidth=2" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/logo.png" width="140" alt="SRV Digital Systems & Solutions"/>
+
+### Secure Systems. Reliable Solutions. Delivered.
+
 <a href="https://github.com/srvdigitalsystemssolutions">
-<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1200&color=FFE002&center=true&vCenter=true&width=700&lines=Secure+Systems.+Reliable+Solutions.+Delivered.;65%2B+Services+%E2%80%94+Tech+%C2%B7+Design+%C2%B7+Hardware+%C2%B7+Security+%C2%B7+AI;8+Specialists.+One+Roof.+Chennai%2C+India.;Open+for+Business+%E2%80%94+Reply+within+24h" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1200&color=FFE002&center=true&vCenter=true&width=720&lines=Secure+Systems.+Reliable+Solutions.+Delivered.;Web+%C2%B7+SaaS+%C2%B7+Security+%C2%B7+Hardware+%C2%B7+Design;8+Specialists.+One+Brand.+Chennai%2C+India.;Open+for+Business+%E2%80%94+Reply+within+24h" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -11,39 +15,43 @@
 <a href="mailto:srvdigitalsystemssolutions@gmail.com"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=FFE002" alt="Email"/></a>
 <a href="https://wa.me/918754748489"><img src="https://img.shields.io/badge/WhatsApp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=FFE002" alt="WhatsApp"/></a>
 <a href="https://srvdigitalsystemssolutions.com"><img src="https://img.shields.io/badge/Website-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=FFE002" alt="Website"/></a>
+<a href="https://www.instagram.com/srvdigitalsystemssolutions"><img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=FFE002" alt="Instagram"/></a>
 <br/>
+<a href="https://www.facebook.com/profile.php?id=61594957097879"><img src="https://img.shields.io/badge/Facebook-1C1C1C?style=for-the-badge&logo=facebook&logoColor=FFE002" alt="Facebook"/></a>
 <a href="https://github.com/srvdigitalsystemssolutions"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=FFE002" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Chennai-India-3B3B3B?style=for-the-badge&logo=googlemaps&logoColor=FFB606" alt="Location"/>
-<img src="https://img.shields.io/badge/Open_for-Business-1C1C1C?style=for-the-badge&logo=statuspage&logoColor=FFE002" alt="Status"/>
+<img src="https://img.shields.io/badge/Chennai-India-3B3B3B?style=for-the-badge&logo=googlemaps&logoColor=FFB606" alt="Chennai, India"/>
+<img src="https://img.shields.io/badge/Open_for-Business-1C1C1C?style=for-the-badge&logo=statuspage&logoColor=FFE002" alt="Open for Business"/>
 
 <br/><br/>
 
-**[ About ](#about)** &nbsp;·&nbsp; **[ Team ](#team)** &nbsp;·&nbsp; **[ Capabilities ](#capabilities)** &nbsp;·&nbsp; **[ Services ](#services)** &nbsp;·&nbsp; **[ Pricing ](#pricing)** &nbsp;·&nbsp; **[ Process ](#process)** &nbsp;·&nbsp; **[ FAQ ](#faq)** &nbsp;·&nbsp; **[ Contact ](#contact)**
+**[ What We Do ](#what-we-do)** &nbsp;·&nbsp; **[ Team ](#team)** &nbsp;·&nbsp; **[ Capabilities ](#capabilities)** &nbsp;·&nbsp; **[ Services ](#services)** &nbsp;·&nbsp; **[ Recent Work ](#recent-work)** &nbsp;·&nbsp; **[ What We Don't Do ](#what-we-dont-do)** &nbsp;·&nbsp; **[ Process ](#process)** &nbsp;·&nbsp; **[ Pricing ](#pricing)** &nbsp;·&nbsp; **[ FAQ ](#faq)** &nbsp;·&nbsp; **[ Contact ](#contact)**
+
+<br/>
+
+*Last updated: October 2026*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,50:B28228,100:1C1C1C&height=2&width=100%"/>
 
-<a name="about"></a>
+<a name="what-we-do"></a>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/logo.png" width="150" alt="SRV Digital Systems & Solutions"/>
-
-# <span style="color:#FFE002">✦ Secure Systems. Reliable Solutions. ✦</span>
-
-**The future of digital solutions — built in Chennai.**
+## 🧭 What We Do
 
 </div>
 
-**SRV Digital Systems & Solutions** is a Chennai-based technology consultancy bringing **hardware, software, cybersecurity, AI, and design** together under one roof. Our team combines research-grade credentials — **IEEE publications, a national datathon award, and 55+ certifications** — with disciplined, client-first execution.
+**SRV Digital Systems & Solutions** is a Chennai-based technology consultancy. We are a curator-led specialist network: eight independent specialists in software, security, AI, embedded hardware, marketing operations, media and manufacturing, coordinated under one brand, one point of contact and one written scope. You deal with a single accountable lead; the work is done by the person on the team best qualified for it.
 
-Every engagement runs on a **written scope, milestone reviews, and full documentation** — and every client walks away with **100% ownership of their source code**. We don't overpromise, and we build security in from day one rather than bolting it on afterward.
+We build and secure the systems small and growing organisations run on. That means business websites and content-managed sites, e-commerce stores, custom web applications, SaaS products and institutional ERP systems; website security audits, malware recovery and authorised penetration testing; IT support, custom PC builds and data recovery; and brand identity, print and media design. Where a project crosses disciplines — a website that needs a security review, a prototype that needs firmware and a 3D-printed enclosure — we handle it end to end instead of handing you off to three vendors.
+
+We work with Chennai small and mid-sized businesses, early-stage startups, educational and industrial institutions, and international clients who want a dependable delivery partner in India. Every engagement starts with a written scope and runs through milestone reviews with your sign-off at each stage. Security is part of the build, not an add-on afterwards. When the work is done, you receive full documentation and **100% ownership of the source code and IP** — no lock-in, no hostage hosting.
 
 <div align="center">
 
-![IEEE](https://img.shields.io/badge/IEEE-2_Publications-1C1C1C?style=flat-square&logo=ieee&logoColor=FFE002)
-![Datathon](https://img.shields.io/badge/IBM_Z_Datathon_2025-2nd_National-3B3B3B?style=flat-square&logo=ibm&logoColor=FFB606)
+![IEEE](https://img.shields.io/badge/IEEE-4_Papers_%C2%B7_2_Research_Projects-1C1C1C?style=flat-square&logo=ieee&logoColor=FFE002)
+![Datathon](https://img.shields.io/badge/IBM_Z_Datathon_2025-2nd_Place_National-3B3B3B?style=flat-square&logo=ibm&logoColor=FFB606)
 ![Certs](https://img.shields.io/badge/Certifications-55%2B-1C1C1C?style=flat-square&logo=coursera&logoColor=FFE002)
 ![Ownership](https://img.shields.io/badge/Source_Code-100%25_Client_Owned-3B3B3B?style=flat-square&logo=opensourceinitiative&logoColor=FFB606)
 
@@ -55,17 +63,34 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-## 🌟 Meet the Minds Behind SRV
+## 🌟 The Team
 
-*Eight specialists. One standard.*
+*Three heads. Two senior practitioners. Three technical specialists. One standard.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Sriram-v.jpg" width="120" alt="Sriram V"/>
+| Tier | Role | People |
+|:---|:---|:---|
+| **Heads** | Set direction, own client relationships and sign off on scope | Sriram V · Vishwa Rathinam S · Ganesh S |
+| **Senior Practitioners** | Lead delivery within their discipline | Venkat Charan V · Praveen CK |
+| **Technical Specialists** | Hands-on engineering, interactive and manufacturing work | Siranjeevee R · Varun G · Venkatramanujam N N |
+
+</div>
+
+<table>
+<tr>
+<td align="center" colspan="2">
+
+![Tier 1 — Heads](https://img.shields.io/badge/TIER_1_%E2%80%94_HEADS-FFE002?style=for-the-badge&labelColor=1C1C1C&color=FFE002)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Sriram-v.jpg" width="110" alt="Sriram V"/>
 
 ### Sriram V
 
@@ -73,22 +98,18 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 **Cybersecurity · AI Security · Cloud Architecture · Full-Stack · Mechatronics**
 
+B.E. Computer Science (Cyber Security), Class of 2026 · Diploma in Mechatronics<br/>
+2 IEEE-published research projects across 4 papers (WAF AI, CSSS)<br/>
+IBM Z Datathon 2025 — 2nd Place National, Team BIG IRON<br/>
+IBM internship (6 months) · 55+ professional certifications
+
 <a href="https://www.linkedin.com/in/sriram-v-38305a220/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
 <a href="https://github.com/Darkwebnew"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
 
-🏆 IBM Z Datathon 2025 — 2nd Place National<br/>
-📄 2 IEEE Publications — WAF AI · CSSS<br/>
-📜 55+ Certifications<br/>
-🎓 Mechatronics Diploma (81%) + B.E. CSE Cybersecurity<br/>
-⚙️ Hardware + Software + Security specialist
+</td>
+<td align="center" width="50%" valign="top">
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Vishwa-Rathinam-S.png" width="120" alt="Vishwa Rathinam S"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Vishwa-Rathinam-S.png" width="110" alt="Vishwa Rathinam S"/>
 
 ### Vishwa Rathinam S
 
@@ -96,90 +117,112 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 **Machine Learning · LLM Fine-Tuning · CUDA/GPU · Computer Vision · MLOps · Embedded**
 
+B.Tech Artificial Intelligence & Machine Learning — Saveetha Engineering College<br/>
+LLM fine-tuning and CUDA/GPU computing<br/>
+Computer vision, MLOps and embedded AI deployment<br/>
+Google Tunix Hackathon participant
+
 <a href="https://www.linkedin.com/in/vishwa-rathinam-01a934282/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
 <a href="https://github.com/VishwaRathinam14"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
 
-🎓 B.Tech AI & ML — Saveetha Engineering College<br/>
-🚀 Google Tunix Hackathon participant<br/>
-⚡ CUDA / GPU computing specialist<br/>
-🧠 LLM fine-tuning & RAG pipelines<br/>
-📊 Computer vision & MLOps<br/>
-🔩 Embedded systems & ARM development
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" colspan="2" valign="top">
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Ganesh-S.png" width="120" alt="Ganesh S"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Ganesh-S.png" width="110" alt="Ganesh S"/>
 
 ### Ganesh S
 
 ![Director — CRM & Marketing Ops](https://img.shields.io/badge/DIRECTOR_%E2%80%94_CRM_%26_MARKETING_OPS-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
-**CRM · Email Marketing · Marketing Automation · Deliverability · Lifecycle · B2B/B2C**
+**CRM · Email Marketing · Marketing Automation · Deliverability · Lifecycle**
+
+7+ years across CRM, email marketing and deliverability<br/>
+Email deliverability consultant for US-based Vyrian, Inc. — 98%+ delivery rate, ~44% fewer undeliverables<br/>
+Klaviyo Deliverability Certified
 
 <a href="https://www.linkedin.com/in/ganesh-shankar-98bab5179/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
 
-💼 7+ years across CRM, Email Marketing & Deliverability<br/>
-🌍 Email Deliverability Consultant — Vyrian, Inc. (US · Remote)<br/>
-📉 Delivery rate 98%+ · Undeliverables cut by ~44%<br/>
-✅ Klaviyo Deliverability Certified
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-</div>
+![Tier 2 — Senior Practitioners](https://img.shields.io/badge/TIER_2_%E2%80%94_SENIOR_PRACTITIONERS-FFB606?style=for-the-badge&labelColor=1C1C1C&color=FFB606)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Venkat-Charan-V.png" width="120" alt="Venkat Charan V"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Venkat-Charan-V.png" width="110" alt="Venkat Charan V"/>
 
 ### Venkat Charan V
 
-![Junior Developer — AI/ML & Data](https://img.shields.io/badge/JUNIOR_DEVELOPER_%E2%80%94_AI%2FML_%26_DATA-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
+![Developer — AI/ML & Data](https://img.shields.io/badge/DEVELOPER_%E2%80%94_AI%2FML_%26_DATA-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
-**Machine Learning · Python · Data Analysis · Java Backend · JavaScript**
+**Machine Learning · Python · Data Analysis · Java · JavaScript**
+
+University College Dublin<br/>
+ML projects: market-price predictor and career-prediction system (Python)<br/>
+Java object-oriented programming and JavaScript e-commerce development<br/>
+Assistive-technology footwear for visually-impaired users
 
 <a href="https://www.linkedin.com/in/venkatcharanv/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
 <a href="https://github.com/venkatcharanv"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
 
-🎓 University College Dublin — Based in Ireland (Remote)<br/>
-🐍 Python · Jupyter · ML (Market-Price-Predictor, career-prediction-system)<br/>
-☕ Java · OOP (Shopping-cart)<br/>
-🌐 JavaScript · E-Commerce (e-commerce-site)<br/>
-♿ Assistive Tech — Footwear for Visually-Impaired
+</td>
+<td align="center" width="50%" valign="top">
 
-</div>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Praveen-CK.png" width="110" alt="Praveen CK"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
+### Praveen CK
 
-<div align="center">
+![Editor & Media Lead](https://img.shields.io/badge/EDITOR_%26_MEDIA_LEAD-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Siranjeevee-R.png" width="120" alt="Siranjeevee R"/>
+**Video Editing · Media Production · Visual Storytelling · Brand Design**
+
+Video editing and post-production<br/>
+Social media content, reels and media direction<br/>
+Logo and brand identity design
+
+<a href="https://www.linkedin.com/in/praveen-chandru-05a412286/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
+<a href="https://github.com/praveenck23009864"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![Tier 3 — Technical Specialists](https://img.shields.io/badge/TIER_3_%E2%80%94_TECHNICAL_SPECIALISTS-B28228?style=for-the-badge&labelColor=1C1C1C&color=B28228)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Siranjeevee-R.png" width="110" alt="Siranjeevee R"/>
 
 ### Siranjeevee R
 
 ![Embedded Systems & IoT Engineer](https://img.shields.io/badge/EMBEDDED_SYSTEMS_%26_IOT_ENGINEER-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
-**Embedded Systems · IoT · Mechatronics · Sensor Integration · Hardware Prototyping**
+**Embedded Systems · IoT · Mechatronics · Sensor Integration · Prototyping**
+
+Mechatronics — Velammal Institute of Technology<br/>
+MSME Hackathon 4.0 (Youth) — ₹13 Lakh grant awarded<br/>
+Presented at PRIME-2026, SSN College of Engineering<br/>
+ESP32 + ACS712 smart current-leakage detection system<br/>
+Automated clog-removing machine for underground drainage
 
 <a href="https://www.linkedin.com/in/siranjeevee/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
 <a href="https://github.com/Siranjeevee23"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
 
-🏆 MSME Hackathon 4.0 (Youth) — ₹13 Lakh Grant Awarded<br/>
-📄 Presented at PRIME-2026, SSN College of Engineering<br/>
-🔧 ESP32 + ACS712 + IoT — Smart Current Leakage Detection System<br/>
-⚙️ Automated Clog Removing Machine for Underground Drainage<br/>
-🎓 Mechatronics — Velammal Institute of Technology, Chennai
+</td>
+<td align="center" width="50%" valign="top">
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Varun-G.png" width="120" alt="Varun G"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Varun-G.png" width="110" alt="Varun G"/>
 
 ### Varun G
 
@@ -187,60 +230,34 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 **Frontend Development · Interactive Media · Game Development · Creative Coding**
 
+Frontend and interactive web applications (HTML, JavaScript)<br/>
+Game development, music visualisation and creative coding<br/>
+Embedded and hardware prototyping in C++
+
 <a href="https://github.com/varungiri970-jpg"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
 
-💻 Frontend Development (HTML · JavaScript)<br/>
-🎮 Game Development & Interactive Experiences<br/>
-🎵 Music Visualisation & Creative Coding<br/>
-🦾 Embedded & Hardware Prototyping (C++)<br/>
-📱 Interactive UI & Web Applications
+</td>
+</tr>
+<tr>
+<td align="center" width="100%" colspan="2" valign="top">
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Praveen-CK.png" width="120" alt="Praveen CK"/>
-
-### Praveen CK
-
-![Editor & Media Lead](https://img.shields.io/badge/EDITOR_%26_MEDIA_LEAD-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
-
-**Video Editing · Content Creation · Media Production · Visual Storytelling · Design**
-
-<a href="https://www.linkedin.com/in/praveen-chandru-05a412286/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
-<a href="https://github.com/praveenck23009864"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
-
-🎬 Video Editing & Post-Production<br/>
-📱 Social Media Content & Reels<br/>
-🎥 Media Production & Direction<br/>
-🎨 Visual Storytelling & Graphic Design<br/>
-🖼️ Logo & Brand Identity Design
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
-
-<div align="center">
-
-<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="120" alt="Venkatramanujam N N"/>
+<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="110" alt="Venkatramanujam N N"/>
 
 ### Venkatramanujam N N
 
 ![3D Printing & Manufacturing Partner](https://img.shields.io/badge/3D_PRINTING_%26_MANUFACTURING-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
-**3D Printing · Rapid Prototyping · Custom Manufacturing · Functional & Industrial Parts**
+**3D Printing · Rapid Prototyping · Custom Manufacturing · Industrial Parts**
+
+Founder — NVS 3D Reality, Chennai<br/>
+Design-to-print fulfilment, CAD to physical part<br/>
+Functional and industrial part production
 
 <a href="https://www.instagram.com/nvs3d_reality"><img src="https://img.shields.io/badge/Instagram-1C1C1C?style=flat-square&logo=instagram&logoColor=FFE002"/></a>
 
-🖨️ Custom 3D Printing & Rapid Prototyping<br/>
-⚙️ Functional & Industrial Part Production<br/>
-🧩 Design-to-Print Fulfillment (CAD → Physical Part)<br/>
-🚀 Founder — NVS 3D REALITY<br/>
-📍 Chennai, India
-
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -248,81 +265,21 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-## 🧠 Core Capabilities
+## 🧠 Capabilities
 
 </div>
 
-<div align="center">
-
-**AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,huggingface,jupyter&perline=7" alt="AI Stack"/>
-
-**Cybersecurity & Offensive Security**
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github&perline=5" alt="Security Stack"/>
-
-<br/>
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1C1C1C?style=flat-square&logo=wireshark&logoColor=FFE002)
-![Metasploit](https://img.shields.io/badge/Metasploit-3B3B3B?style=flat-square&logo=metasploit&logoColor=FFB606)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-1C1C1C?style=flat-square&logo=portswigger&logoColor=FFE002)
-![Nmap](https://img.shields.io/badge/Nmap-3B3B3B?style=flat-square&logo=nmap&logoColor=FFB606)
-![Nessus](https://img.shields.io/badge/Nessus-1C1C1C?style=flat-square&logo=tenable&logoColor=FFE002)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-3B3B3B?style=flat-square&logo=owasp&logoColor=FFB606)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1C1C1C?style=flat-square&logo=gnuprivacyguard&logoColor=FFE002)
-![Hydra](https://img.shields.io/badge/Hydra-3B3B3B?style=flat-square&logo=linux&logoColor=FFB606)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1C1C1C?style=flat-square&logo=wifi&logoColor=FFE002)
-![Autopsy](https://img.shields.io/badge/Autopsy-3B3B3B?style=flat-square&logo=forensic&logoColor=FFB606)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-1C1C1C?style=flat-square&logo=mitre&logoColor=FFE002)
-
-**Cloud, DevOps & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,prometheus,grafana,gitlab&perline=8" alt="Cloud Stack"/>
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs,express,react,nextjs&perline=8" alt="Backend Stack"/>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,spring&perline=6" alt="Frontend Stack"/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite&perline=6" alt="Database Stack"/>
-
-**Embedded Systems & Hardware**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,rust&perline=5" alt="Embedded Stack"/>
-
-**Design, 3D & Creative**
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender&perline=4" alt="Design Stack"/>
-
-<br/>
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-1C1C1C?style=flat-square&logo=autodesk&logoColor=FFE002)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-3B3B3B?style=flat-square&logo=dassaultsystemes&logoColor=FFB606)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-1C1C1C?style=flat-square&logo=autodesk&logoColor=FFE002)
-![Revit](https://img.shields.io/badge/Revit-3B3B3B?style=flat-square&logo=autodesk&logoColor=FFB606)
-![PLC](https://img.shields.io/badge/PLC-1C1C1C?style=flat-square&logo=siemens&logoColor=FFE002)
-![SCADA](https://img.shields.io/badge/SCADA-3B3B3B?style=flat-square&logo=siemens&logoColor=FFB606)
-![KiCad](https://img.shields.io/badge/KiCad-1C1C1C?style=flat-square&logo=kicad&logoColor=FFE002)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-3B3B3B?style=flat-square&logo=electron&logoColor=FFB606)
-![MQTT](https://img.shields.io/badge/MQTT-1C1C1C?style=flat-square&logo=mqtt&logoColor=FFE002)
-![Node-RED](https://img.shields.io/badge/Node--RED-3B3B3B?style=flat-square&logo=nodered&logoColor=FFB606)
-![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-1C1C1C?style=flat-square&logo=printables&logoColor=FFE002)
-
-![HubSpot](https://img.shields.io/badge/HubSpot-1C1C1C?style=flat-square&logo=hubspot&logoColor=FFE002)
-![Klaviyo](https://img.shields.io/badge/Klaviyo-3B3B3B?style=flat-square&logo=klaviyo&logoColor=FFB606)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-1C1C1C?style=flat-square&logo=mailchimp&logoColor=FFE002)
-![Brevo](https://img.shields.io/badge/Brevo-3B3B3B?style=flat-square&logo=brevo&logoColor=FFB606)
-![Apollo.io](https://img.shields.io/badge/Apollo.io-1C1C1C?style=flat-square&logo=apollo&logoColor=FFE002)
-![Smartlead](https://img.shields.io/badge/Smartlead-3B3B3B?style=flat-square&logo=minutemailer&logoColor=FFB606)
-![Instantly](https://img.shields.io/badge/Instantly-1C1C1C?style=flat-square&logo=lightning&logoColor=FFE002)
-
-![Canva](https://img.shields.io/badge/Canva-1C1C1C?style=flat-square&logo=canva&logoColor=FFE002)
-![CapCut](https://img.shields.io/badge/CapCut-3B3B3B?style=flat-square&logo=capcut&logoColor=FFB606)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-1C1C1C?style=flat-square&logo=adobepremierepro&logoColor=FFE002)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-3B3B3B?style=flat-square&logo=ibmcloud&logoColor=FFB606)
-![IBM Z](https://img.shields.io/badge/IBM_Z_Mainframe-1C1C1C?style=flat-square&logo=ibm&logoColor=FFE002)
-
-</div>
+| Domain | Tools & Technologies |
+|:---|:---|
+| **Web & Backend** | Python · FastAPI · Flask · Django · Node.js · Express · React · Next.js · TypeScript · Tailwind · Spring |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · Firebase · SQLite |
+| **AI & Machine Learning** | PyTorch · TensorFlow · scikit-learn · OpenCV · Hugging Face · spaCy · Gemini API · CUDA |
+| **Security** | Kali Linux · Burp Suite · OWASP ZAP · Nmap · Nessus · Metasploit · Wireshark · Autopsy · MITRE ATT&CK |
+| **Cloud & DevOps** | AWS · GCP · IBM Cloud · Docker · Kubernetes · Nginx · GitLab CI · Prometheus · Grafana |
+| **Embedded & Hardware** | Arduino · ESP32 · Raspberry Pi · C · C++ · Rust · MQTT · Node-RED · KiCad · EasyEDA · PLC · SCADA |
+| **CAD & Manufacturing** | AutoCAD · SolidWorks · Fusion 360 · Revit · Blender · Bambu Lab |
+| **CRM & Marketing** | HubSpot · Klaviyo · Mailchimp · Brevo · Apollo.io · Smartlead · Instantly |
+| **Design & Media** | Figma · Photoshop · Illustrator · Canva · Premiere Pro · CapCut |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -330,997 +287,539 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 <div align="center">
 
-## 💎 Service Catalog
+## 💎 Services
 
-### **65+ Services · Six Divisions**
+### Three Divisions
 
-![Core](https://img.shields.io/badge/A-Core_Technical-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
-![Hardware](https://img.shields.io/badge/B-Hardware_%26_Manufacturing-3B3B3B?style=flat-square&labelColor=3B3B3B&color=FFB606)
-![Creative](https://img.shields.io/badge/C-Design_%26_Creative-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
-![Academic](https://img.shields.io/badge/D-Academic_%26_Research-3B3B3B?style=flat-square&labelColor=3B3B3B&color=FFB606)
-![Cloud](https://img.shields.io/badge/E-Cloud_%26_Security-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
-![Offensive](https://img.shields.io/badge/F-Offensive_Security-3B3B3B?style=flat-square&labelColor=3B3B3B&color=FFB606)
+![Web](https://img.shields.io/badge/1-Web%2C_Apps_%26_SaaS-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
+![Security](https://img.shields.io/badge/2-Security-3B3B3B?style=flat-square&labelColor=3B3B3B&color=FFB606)
+![Brand](https://img.shields.io/badge/3-Brand%2C_Hardware_%26_IT-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
-*All prices are starting-from (₹). Final quotes depend on scope, materials and timeline.*
+*All prices are starting prices in Indian Rupees. Expand any section for typical ranges.<br/>Final quotes depend on scope, materials and timeline, and are always given in writing.*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
 
-### ⚡ Section A — Core Technical Services
+### ⚡ Division 1 — Web, Apps & SaaS
+
+*Websites, stores, web applications, SaaS products, ERPs, mobile apps, AI and automation.*
 
 <details>
-<summary><b>01 · Project &amp; Technical Consulting</b> — Guidance · Dev support · Documentation · Code review · Debugging · Viva prep</summary>
+<summary><b>Websites</b> — From ₹8,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Project Guidance | ₹1,500+ |
-| Development Support | ₹4,000+ |
-| Advanced Support | ₹7,000+ |
-| Complete Consulting | ₹12,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Landing page (1 page) | ₹8,000+ | ₹8,000–12,000 · single conversion-focused page |
+| 5-page custom website | ₹18,000+ | ₹18,000–25,000 · custom design, responsive, contact forms |
+| Business website (8–12 pages) | ₹28,000+ | ₹28,000–40,000 · full company site with service pages |
+| Website + CMS (12–16 pages) | ₹45,000+ | ₹45,000–60,000 · editable content, admin panel, legal pages |
 
 </details>
 
 <details>
-<summary><b>02 · Career &amp; Personal Branding</b> — GitHub portfolio · LinkedIn · ATS resumes · Interview prep</summary>
+<summary><b>E-Commerce</b> — From ₹28,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Profile Starter | ₹2,000+ |
-| Career Growth | ₹4,000+ |
-| Professional Branding | ₹7,000+ |
-| Complete Digital Brand | ₹12,000–₹20,000+ |
-
-</details>
-
-<details>
-<summary><b>03 · Web Development</b> — Business sites · Landing pages · E-commerce · Custom web apps</summary>
-
-| Package | Price |
-|:---|:---:|
-| Starter Website | ₹12,000+ |
-| Business Website | ₹25,000+ |
-| E-Commerce | ₹40,000+ |
-| Custom Web Platform | ₹75,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Shopify store | ₹28,000+ | ₹28,000–40,000 · theme setup, catalogue, payments, shipping |
+| WooCommerce store | ₹40,000+ | ₹40,000–60,000 · WordPress store, payment gateway, hardening |
 
 </details>
 
 <details>
-<summary><b>04 · AI &amp; Business Automation</b> — AI customer support · Workflow automation · BI dashboards</summary>
+<summary><b>Custom Web Applications, SaaS & ERP</b> — From ₹65,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| AI Starter | ₹15,000+ |
-| Business Automation | ₹30,000+ |
-| AI Solution | ₹60,000+ |
-| Enterprise | ₹1,20,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Custom web application | ₹65,000+ | ₹65,000–1,50,000 · authentication, roles, dashboards |
+| Startup MVP | ₹1,00,000+ | ₹1,00,000–2,50,000 · landing page, auth, payments, admin panel |
+| SaaS MVP | ₹1,50,000+ | ₹1,50,000–3,00,000 · auth, subscription billing, dashboard |
+| SaaS full product | ₹3,00,000+ | ₹3,00,000–6,00,000 · multi-tenant, API, billing |
+| ERP system (institutional) | ₹1,50,000+ | ₹1,50,000–4,00,000 · modules for administration, academics, finance, reporting |
+| SaaS maintenance retainer | ₹25,000+/month | Updates, monitoring, bug fixes |
 
-</details>
-
-<details>
-<summary><b>05 · Ethical Hacking &amp; Security Assessment</b> — Authorized VAPT · Assessments · Hardening · Threat detection</summary>
-
-| Package | Price |
-|:---|:---:|
-| Security Check | ₹12,000+ |
-| Business Security Audit | ₹30,000+ |
-| Advanced Security Assessment | ₹75,000+ |
-| Enterprise Consulting | ₹1,50,000+ |
+Larger enterprise SaaS scopes are quoted individually after discovery.
 
 </details>
 
 <details>
-<summary><b>06 · Cyber Crime Investigation &amp; Support</b> — Complaint assistance · Evidence collection · Fraud documentation · Forensics</summary>
+<summary><b>Mobile Apps</b> — From ₹18,000</summary>
+<br/>
 
-| Service | Price |
-|:---|:---:|
-| Cyber Crime Complaint Assistance | ₹5,000+ |
-| Digital Evidence Collection | ₹8,000+ |
-| Fraud Case Documentation | ₹12,000+ |
-| Forensics Investigation Report | ₹25,000+ |
-| Full Cyber Crime Support | ₹40,000+ |
-
-</details>
-
-<details>
-<summary><b>07 · CRM &amp; Marketing Automation</b> — CRM setup · Segmentation · Email campaigns · Deliverability</summary>
-
-| Package | Price |
-|:---|:---:|
-| CRM Starter | ₹12,000+ |
-| Marketing Automation | ₹25,000+ |
-| Growth Operations | ₹50,000+ |
-| Enterprise | ₹1,00,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Mobile app UI/UX design | ₹18,000+ | Screens, flows, clickable prototype |
+| Android app | ₹50,000+ | Native or framework-based Android build |
+| iOS app | ₹60,000+ | iOS build and App Store submission support |
+| Cross-platform app | ₹80,000+ | One codebase for Android and iOS |
+| Custom mobile platform | ₹1,50,000+ | App + backend + admin panel + payments |
 
 </details>
 
 <details>
-<summary><b>08 · Mobile App Design &amp; Development</b> — UI/UX · Android · iOS · Cross-platform · Payments</summary>
+<summary><b>WhatsApp Business</b> — From ₹8,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| App UI/UX Design | ₹20,000+ |
-| Android App | ₹50,000+ |
-| iOS App | ₹60,000+ |
-| Cross-Platform App | ₹80,000+ |
-| Custom Mobile Platform | ₹1,50,000+ |
-
-</details>
-
-<details>
-<summary><b>09 · SaaS Product Development</b> — Auth · Subscription billing · Multi-tenant · Dashboard · API</summary>
-
-| Package | Price |
-|:---|:---:|
-| SaaS MVP | ₹2,00,000+ |
-| SaaS Full Product | ₹4,00,000+ |
-| SaaS + Subscription Billing | ₹6,00,000+ |
-| Enterprise SaaS | ₹12,00,000+ |
-| Maintenance Retainer | ₹25,000+/month |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| WhatsApp Business setup | ₹8,000+ | Business profile, catalogue, API onboarding |
+| WhatsApp chatbot | ₹22,000+ | ₹22,000–35,000 · FAQs, lead capture, appointment booking |
+| Broadcast system | ₹18,000+ | Opt-in lists, templated campaigns |
+| Full WhatsApp solution | ₹50,000+ | Chatbot + broadcast + CRM integration |
+| Monthly management | ₹8,000+/month | Template updates, monitoring, reporting |
 
 </details>
 
 <details>
-<summary><b>10 · Startup MVP Development</b> — Landing page · Core product · Auth · Payments · Admin panel</summary>
+<summary><b>AI & Business Automation</b> — From ₹2,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Landing Page MVP | ₹25,000+ |
-| Basic MVP | ₹1,00,000+ |
-| Full MVP (web + app) | ₹2,50,000+ |
-| Complete Startup Package | ₹5,00,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Industry AI prompt pack (single) | ₹2,000+ | Healthcare, legal or education workflows |
+| AI prompt pack bundle (3) | ₹5,000+ | Three industry packs |
+| Custom enterprise prompt pack | ₹15,000+ | Built around your internal processes |
+| AI starter (support bot / assistant) | ₹15,000+ | Single-channel AI customer support |
+| Business workflow automation | ₹30,000+ | Forms, approvals, notifications, integrations |
+| AI solution | ₹60,000+ | Custom AI features integrated into your systems |
+| Enterprise AI & automation | ₹1,20,000+ | Multi-system automation with BI dashboards |
+| AI voice agent (regional languages) | ₹15,000+ | Tamil, Hindi, Telugu voice bots |
+| Multi-language voice agent | ₹35,000+ | Multiple languages, call routing |
+| Full voice solution | ₹75,000+ | End-to-end voice workflows |
+| Voice agent management | ₹10,000+/month | Monitoring and updates |
+| Invoice automation (basic) | ₹8,000+ | Automated invoices and payment reminders |
+| Full invoice system | ₹25,000+ | Billing, reminders, reconciliation |
+| Invoice + ERP integration | ₹50,000+ | Connected to your accounting system |
+| Invoice automation management | ₹8,000+/month | Ongoing support |
+
+</details>
+
+<details>
+<summary><b>AI / ML Model Development</b> — From ₹25,000</summary>
+<br/>
+
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Basic ML model | ₹25,000+ | Classification, regression, forecasting |
+| Custom AI model | ₹50,000+ | Model built and trained on your data |
+| Computer vision model | ₹75,000+ | Detection, classification, inspection |
+| Custom AI training | ₹75,000+ | Fine-tuning on domain data |
+| Deep learning solution | ₹1,00,000+ | Larger models with deployment pipeline |
+| NLP / LLM solution | ₹1,50,000+ | RAG pipelines, LLM fine-tuning, document AI |
+
+</details>
+
+<details>
+<summary><b>Cloud, DevOps, Servers & Hosting</b> — From ₹800</summary>
+<br/>
+
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| DNS management | ₹800+ | Records, routing, email authentication |
+| Domain registration | ₹1,000+/year | Registration and renewal management |
+| SSL certificate | ₹1,500+ | Installation and renewal |
+| Email hosting | ₹2,000+/user/year | Business email on your domain |
+| Shared hosting | ₹3,000+/year | Managed hosting for small sites |
+| Complete domain + hosting setup | ₹5,000+ | Domain, hosting, email, SSL, DNS |
+| Single server setup | ₹8,000+ | Linux server, hardening, deployment |
+| VPS setup | ₹8,000+/year | Dedicated virtual server |
+| Server monitoring & maintenance | ₹8,000+/month | Uptime, patches, backups |
+| Email server setup | ₹12,000+ | Self-hosted mail with deliverability setup |
+| Cloud readiness audit | ₹15,000+ | Cost, risk and migration assessment |
+| Emergency server recovery | ₹15,000+ | Priority restoration |
+| Docker containerisation | ₹15,000+ | Containerised deployment |
+| Monitoring & alerting | ₹20,000+ | Prometheus / Grafana dashboards |
+| Multi-server setup | ₹25,000+ | Load-balanced or multi-service deployments |
+| CI/CD pipeline | ₹25,000+ | Automated build, test and deploy |
+| Cloud migration | ₹25,000+ | Move workloads to AWS / GCP / IBM Cloud |
+| Monthly DevOps retainer | ₹25,000+/month | Ongoing infrastructure management |
+| Single app migration | ₹30,000+ | One application, end to end |
+| Cloud security review | ₹35,000+ | IAM, network, storage configuration review |
+| Kubernetes setup | ₹40,000+ | Cluster setup and deployment |
+| Cloud infrastructure design | ₹40,000+ | Architecture and documentation |
+| Full cloud architecture | ₹75,000+ | Design, build, security, monitoring |
+| Multi-app migration | ₹75,000+ | Several applications |
+| Full cloud transformation | ₹2,00,000+ | Organisation-wide modernisation |
+
+</details>
+
+<details>
+<summary><b>UI/UX, Front-End & Interactive</b> — From ₹2,000</summary>
+<br/>
+
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| App bug diagnosis & fix | ₹2,000+/bug | Per issue |
+| UI/UX audit | ₹8,000+ | Usability and accessibility review |
+| Wireframe design | ₹8,000+ | Low-fidelity screen layouts |
+| UI/UX fix package | ₹12,000+ | Bundle of interface fixes |
+| Figma prototype | ₹15,000+ | Clickable high-fidelity prototype |
+| Front-end optimisation | ₹15,000+ | Performance and Core Web Vitals |
+| Mobile app UI redesign | ₹25,000+ | Full visual refresh |
+| Design system | ₹35,000+ | Components, tokens, documentation |
+| Basic game prototype | ₹35,000+ | Unity / web prototype |
+| Interactive web app | ₹50,000+ | Gamified or highly interactive experience |
+| Full UI/UX package | ₹75,000+ | Research to final design system |
+| Mobile game (basic) | ₹75,000+ | Casual mobile game |
+| Full game development | ₹2,00,000+ | Complete production |
+
+</details>
+
+<details>
+<summary><b>Technical Consulting, Mentorship & Training</b> — From ₹2,000</summary>
+<br/>
+
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Project guidance & code review | ₹2,000+/session | Review of your own code, architecture and approach |
+| Portfolio + GitHub review | ₹2,000+/profile | Structured feedback on your public work |
+| Technical interview preparation | ₹3,000+/session | Mock interviews and feedback |
+| Profile starter (LinkedIn / resume) | ₹2,000+ | ATS-friendly resume and profile review |
+| Career growth package | ₹4,000+ | Resume, LinkedIn and GitHub |
+| Professional branding | ₹7,000+ | Full professional presence |
+| Complete digital brand | ₹12,000+ | ₹12,000–20,000 · resume, profiles, personal site |
+| College workshop (2 hours) | ₹8,000+ | Cybersecurity, AI/ML, Python, IoT |
+| College workshop (full day) | ₹20,000+ | Hands-on sessions |
+| Corporate training (half day) | ₹35,000+ | Security awareness, AI adoption |
+| Corporate training (full day) | ₹60,000+ | Hands-on technical training |
+| Online course creation | ₹75,000+ | Curriculum, recording, materials |
+| Multi-day bootcamp | ₹1,50,000+ | Intensive programme |
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
 
-### ⚙️ Section B — Hardware, Design & Manufacturing
+### 🔐 Division 2 — Security
+
+*All testing is performed only with the asset owner's written authorisation and an agreed scope.*
 
 <details>
-<summary><b>11 · 3D Printing &amp; Custom Manufacturing</b> — Prototyping through bulk production</summary>
+<summary><b>Website Security, Hardening & Recovery</b> — From ₹6,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Prototyping | ₹499+ |
-| Functional Parts | ₹1,500+ |
-| Advanced Parts | ₹4,000+ |
-| Bulk / Custom | Custom Quote |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| WordPress / CMS security hardening | ₹6,000+ | ₹6,000–12,000 · plugin audit, config, headers, brute-force protection |
+| Ongoing CMS security management | ₹5,000+/month | Updates, monitoring, backups |
+| Basic OWASP Top 10 scan | ₹8,000+ | ₹8,000–15,000 · automated + manual checks, report only |
+| Website malware cleanup + recovery | ₹8,000+ | ₹8,000–20,000 · cleanup, backdoor removal, blacklist removal, root cause |
+| Web security audit (full report) | ₹18,000+ | ₹18,000–35,000 · CVSS-scored findings with remediation plan |
+| **WAF AI deployment** | **₹22,000+** | ₹22,000–40,000 · AI-assisted web application firewall, **built on our IEEE-published research** |
 
 </details>
 
 <details>
-<summary><b>12 · IT Support &amp; System Services</b> 🚪 Doorstep Available</summary>
+<summary><b>Penetration Testing</b> — From ₹35,000</summary>
+<br/>
 
-| Service | Price |
-|:---|:---:|
-| Malware / Virus Removal | ₹1,000–₹1,500 |
-| Data Backup (100GB) | ₹2,000–₹3,000 |
-| Windows Clean Install | ₹1,000–₹1,500 |
-| Software Installation | ₹500–₹1,000 |
-| Office Installation | ₹500–₹800 |
-| Full System Restoration | ₹4,000–₹6,000 |
-| Doorstep Visit | ₹500–₹800 |
-| IT Support Retainer | ₹3,000–₹8,000/month |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Small app penetration test | ₹35,000+ | ₹35,000–50,000 · 5–15 pages, basic authentication |
+| API security review | ₹45,000+ | ₹45,000–80,000 · REST / GraphQL endpoints, auth, rate limits |
+| Medium app penetration test | ₹70,000+ | ₹70,000–1,20,000 · 15–50 endpoints, e-commerce / SaaS |
 
-</details>
-
-<details>
-<summary><b>13 · PC Building &amp; Hardware Assembly</b> — Custom builds · BIOS config · Stress testing</summary>
-
-| Service | Price |
-|:---|:---:|
-| PC Build Consultation | ₹800+ |
-| Custom PC Assembly | ₹3,500+ |
-| Gaming PC Build | ₹4,500+ |
-| Workstation / AI PC | ₹8,000+ |
-| Component Sourcing Help | ₹1,500+ |
-| OS + Driver + Software | ₹2,000+ |
-| Full PC Build | ₹8,000+ |
+**Coverage:** OWASP Top 10 · authentication and authorisation bypass · business logic flaws · injection · XSS · CSRF · SSRF · IDOR · file upload vulnerabilities · token analysis.<br/>
+**Deliverables:** CVSS-scored report · reproducible proof of concept for each finding · remediation roadmap.
 
 </details>
 
 <details>
-<summary><b>14 · CAD Design &amp; 3D Modeling</b> — AutoCAD · SolidWorks · Fusion 360 · Revit</summary>
+<summary><b>Compliance & Policy</b> — From ₹10,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| 2D Drafting | ₹1,000+/drawing |
-| 3D Part Modeling | ₹2,000+/part |
-| Product Design | ₹8,000+ |
-| Assembly Design | ₹12,000+ |
-| 3D Rendering | ₹1,000+/render |
-| Architectural 3D | ₹15,000+ |
-| Reverse Engineering | ₹5,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Security policy drafting | ₹10,000+ | ₹10,000–18,000 · acceptable use, access control, incident response |
+| DPDP Act compliance audit | ₹15,000+ | ₹15,000–30,000 · data mapping, consent, notices, gap report |
+| GDPR compliance review | ₹40,000+ | For businesses handling EU personal data |
 
 </details>
 
 <details>
-<summary><b>15 · HMI / PLC &amp; Industrial Automation</b> — SCADA · Panel boards · Motor control</summary>
+<summary><b>Cyber Crime Assistance</b> — From ₹5,000</summary>
+<br/>
 
-| Service | Price |
-|:---|:---:|
-| PLC Programming | ₹8,000+ |
-| HMI Design & Programming | ₹12,000+ |
-| Panel Board Design | ₹15,000+ |
-| SCADA Setup | ₹25,000+ |
-| Full Automation System | ₹75,000+ |
-| Industrial Wiring & Commissioning | ₹30,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Complaint filing assistance | ₹5,000+ | Preparing and filing a structured cyber crime complaint |
+| Digital evidence collection | ₹8,000+ | Preserving screenshots, logs, transaction records |
+| Fraud case documentation | ₹12,000+ | Timeline and evidence pack |
+| Forensic investigation report | ₹25,000+ | Technical analysis of affected devices or accounts |
+| Full cyber crime support | ₹40,000+ | End-to-end assistance through the case |
 
-</details>
-
-<details>
-<summary><b>16 · Home Automation &amp; Smart Home</b> — Relay modules · Sensors · Voice control</summary>
-
-| Package | Price |
-|:---|:---:|
-| Single Device Control | ₹2,500+ |
-| 4-Channel Automation | ₹5,500+ |
-| 8-Channel Automation | ₹9,000+ |
-| Smart Home Starter (1 room) | ₹12,000+ |
-| Full Home Basic (4 rooms) | ₹40,000+ |
-| Motor / Pump Control | ₹8,000+ |
-| Voice Control Integration | ₹3,000+ extra |
-| Sensor Automation | ₹4,000+ |
-
-</details>
-
-<details>
-<summary><b>17 · Electrical Works &amp; Wiring</b> — House/office wiring · Panel boards · UPS/inverter</summary>
-
-| Service | Price |
-|:---|:---:|
-| House Wiring | ₹500+/point |
-| Office Electrical | ₹800+/point |
-| Panel Board Wiring | ₹5,000+ |
-| Motor Installation | ₹3,000+ |
-| UPS / Inverter Setup | ₹2,500+ |
-| Safety Inspection | ₹1,500+ |
-| Full House / Office Wiring | ₹25,000+ |
-
-</details>
-
-<details>
-<summary><b>18 · Circuit Design &amp; Working Model Assembly</b> — Schematics · PCB design · Soldering</summary>
-
-| Service | Price |
-|:---|:---:|
-| Circuit Diagram Design | ₹2,000+ |
-| PCB Design (1–2 layer) | ₹4,000+ |
-| PCB Design (4 layer) | ₹8,000+ |
-| Component Selection & BOM | ₹1,500+ |
-| Full Working Model Assembly | ₹8,000+ |
-| Working Prototype | ₹12,000+ |
-| Arduino/ESP32 Device | ₹8,000+ |
-
-</details>
-
-<details>
-<summary><b>19 · IoT &amp; Embedded Solutions</b> — Arduino · Raspberry Pi · ESP32 · MQTT · Node-RED</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic IoT Prototype | ₹8,000+ |
-| ESP32 / Arduino Custom Device | ₹12,000+ |
-| Smart Home Setup | ₹25,000+ |
-| Industrial IoT Solution | ₹50,000+ |
-| Custom Embedded Solution | ₹75,000+ |
-
-</details>
-
-<details>
-<summary><b>20 · Hardware Repair &amp; Diagnostics</b> 🚪 Doorstep Available</summary>
-
-| Service | Price |
-|:---|:---:|
-| Hardware Diagnostics | ₹500+ |
-| Laptop Troubleshooting | ₹800+ |
-| Mobile Troubleshooting | ₹600+ |
-| Component-Level Diagnosis | ₹1,200+ |
-| Screen Replacement Service | ₹800+ |
-| Battery Replacement Service | ₹500+ |
-| Doorstep Visit | ₹500–₹800 |
-| Full Hardware Repair | Custom Quote |
+Overall range: ₹5,000–40,000. We support victims with documentation and technical analysis; we work alongside law enforcement, not in place of it.
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
 
-### 🎨 Section C — Design, Print & Creative
+### 🎨 Division 3 — Brand, Hardware & IT
+
+*Brand and design, media, marketing, IT support, PC builds, data recovery and engineering services.*
 
 <details>
-<summary><b>21 · Graphic Design &amp; Print Services</b> — Cards · Brochures · Logos · Letterheads · Banners</summary>
+<summary><b>Brand & Design</b> — From ₹800</summary>
+<br/>
 
-| Service | Price |
-|:---|:---:|
-| Visiting Card Design | ₹1,000+ |
-| Visiting Card Printing (100 pcs) | ₹800+ |
-| Brochure Design | ₹3,000+ |
-| Logo Design | ₹3,000+ |
-| Letterhead / Envelope | ₹1,000+ |
-| Full Brand Kit | ₹8,000+ |
-| Menu Design | ₹2,000+ |
-| Banner / Flex | ₹1,500+/design |
-| Bill Book / Invoice Book | ₹2,500+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Visiting card design | ₹800+ | Single design, print-ready |
+| Visiting card printing (100 pcs) | ₹800+ | Printed and delivered |
+| Letterhead / envelope | ₹1,000+ | Print-ready stationery |
+| Brochure design | ₹1,200+/page | Per page |
+| Banner / flex | ₹1,200+ | Per design |
+| Menu design | ₹2,500+ | Restaurant and café menus |
+| Bill book / invoice book | ₹2,500+ | Design and print |
+| Logo only | ₹4,000+ | ₹4,000–8,000 · concepts, revisions, final files |
+| Pitch deck | ₹4,000+ | ₹4,000–8,000 · investor or sales presentation |
+| Logo + visiting card | ₹6,000+ | ₹6,000–10,000 |
+| Full brand kit | ₹12,000+ | ₹12,000–18,000 · logo, card, letterhead, email signature |
+| Full brand identity + guidelines | ₹18,000+ | ₹18,000–30,000 · identity system and usage guide |
 
 </details>
 
 <details>
-<summary><b>22 · Digital Invitations &amp; Event Websites</b> — Wedding/birthday sites · RSVP · Galleries</summary>
+<summary><b>Video, Animation & Media</b> — From ₹500</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Digital Invitation Card | ₹1,000+ |
-| Event Website (single) | ₹5,000+ |
-| Event Website + RSVP | ₹8,000+ |
-| Baby 1st Birthday Website | ₹7,000+ |
-| Wedding Website | ₹10,000+ |
-| Full Event Website | ₹15,000+ |
-| Domain + Hosting Setup | ₹3,000+ |
-| Custom Domain | ₹1,000+/year |
-
-</details>
-
-<details>
-<summary><b>23 · Video Editing &amp; Content Creation</b> — Reels · YouTube · Wedding films · Promos</summary>
-
-| Service | Price |
-|:---|:---:|
-| Social Media Reel | ₹1,000+ |
-| YouTube Video Edit | ₹3,000+ |
-| Wedding Film Edit (short) | ₹5,000+ |
-| Wedding Film Edit (full) | ₹15,000+ |
-| Promo Video | ₹10,000+ |
-| Product Demo Video | ₹15,000+ |
-| Motion Graphics | ₹5,000+ |
-| Full Video Production | ₹50,000+ |
-
-</details>
-
-<details>
-<summary><b>24 · Videography &amp; Photography</b> — Weddings · Events · Products · Real estate</summary>
-
-| Service | Price |
-|:---|:---:|
-| Event Photography (2 hrs) | ₹5,000+ |
-| Wedding Photography | ₹25,000+ |
-| Product Photography | ₹500+/product |
-| Event Videography | ₹15,000+ |
-| Cinematic Wedding Film | ₹50,000+ |
-| Real Estate Photography | ₹10,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| YouTube thumbnail (single) | ₹500+ | Per thumbnail |
+| Product photography | ₹500+/product | Studio-style product shots |
+| Social media reel | ₹1,000+ | Short-form edit |
+| Podcast episode editing | ₹2,000+/episode | Cleanup and edit |
+| YouTube video edit | ₹3,000+ | Long-form edit |
+| Audio mixing & mastering | ₹3,000+/episode | Broadcast-ready audio |
+| Thumbnail pack (10) | ₹4,000+ | Consistent series design |
+| Event photography (2 hours) | ₹5,000+ | Edited photo set |
+| Wedding film edit (short) | ₹5,000+ | Highlight film |
+| Motion graphics / animated logo | ₹5,000+ | Logo animation, titles |
+| Full podcast package | ₹8,000+/episode | Edit, mix, master, publish |
+| Monthly thumbnail package | ₹8,000+/month | Ongoing channel support |
+| Promo video | ₹10,000+ | Brand or event promo |
+| Channel branding kit | ₹10,000+ | Banner, icon, templates |
+| Real estate photography | ₹10,000+ | Interior and exterior sets |
+| Wedding film edit (full) | ₹15,000+ | Complete film |
+| Product demo video | ₹15,000+ | Feature walkthrough |
+| Explainer video (30s) | ₹15,000+ | Animated explainer |
+| Event videography | ₹15,000+ | Shoot and edit |
+| Monthly podcast retainer | ₹15,000+/month | Multi-episode support |
+| Motion graphics package | ₹25,000+ | Branded motion assets |
+| Wedding photography | ₹25,000+ | Full-day coverage |
+| Full video production | ₹50,000+ | Concept, shoot, edit |
+| Cinematic wedding film | ₹50,000+ | Multi-camera production |
+| Full animation production | ₹75,000+ | End-to-end animation |
 
 </details>
 
 <details>
-<summary><b>25 · Content Writing &amp; Technical Documentation</b> — Blogs · Whitepapers · API docs · Manuals</summary>
+<summary><b>Digital Invitations & Event Websites</b> — From ₹1,000</summary>
+<br/>
 
-| Service | Price |
-|:---|:---:|
-| Blog Post (1000 words) | ₹2,000+ |
-| Technical Article | ₹5,000+ |
-| Whitepaper | ₹15,000+ |
-| Product Documentation | ₹25,000+ |
-| API Documentation | ₹18,000+ |
-| User Manual | ₹15,000+ |
-| Case Study | ₹8,000+ |
-| Social Media Captions | ₹5,000+/month |
-
-</details>
-
-<details>
-<summary><b>26 · SEO &amp; Digital Marketing</b> — On-page · Local SEO · Google Business Profile</summary>
-
-| Package | Price |
-|:---|:---:|
-| SEO Audit | ₹8,000+ |
-| On-Page SEO Setup | ₹15,000+ |
-| Local SEO | ₹15,000+/month |
-| Monthly SEO Retainer | ₹25,000+/month |
-| Full Digital Marketing | ₹75,000+/month |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Digital invitation card | ₹1,000+ | Shareable invitation |
+| Custom domain | ₹1,000+/year | Your event's own address |
+| Domain + hosting setup | ₹3,000+ | Hosting and configuration |
+| Event website (single page) | ₹5,000+ | Details, venue, schedule |
+| Baby first-birthday website | ₹7,000+ | Gallery and event details |
+| Event website + RSVP | ₹8,000+ | Guest responses collected online |
+| Wedding website | ₹10,000+ | Story, events, gallery, RSVP |
+| Full event website | ₹15,000+ | Multi-page with galleries and RSVP |
 
 </details>
 
 <details>
-<summary><b>27 · Google Ads &amp; Paid Advertising</b> — Campaign management · Ad copy · Meta Ads</summary>
+<summary><b>CRM, Email & Marketing Operations</b> — From ₹3,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Google Ads Setup | ₹8,000+ |
-| Campaign Management | ₹25,000+/month |
-| Meta Ads Setup | ₹8,000+ |
-| Meta Ads Management | ₹25,000+/month |
-| Full Paid Ads | ₹50,000+/month |
-
-</details>
-
-<details>
-<summary><b>28 · Social Media Management</b> — Instagram · Facebook · LinkedIn · YouTube</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic SMM (1 platform) | ₹15,000+/month |
-| Standard SMM (2 platforms) | ₹25,000+/month |
-| Full SMM | ₹40,000+/month |
-| Content Creation Only | ₹10,000+/month |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Newsletter edition design | ₹3,000+/edition | Per edition |
+| Newsletter setup | ₹8,000+ | Platform, templates, list setup |
+| CRM starter | ₹12,000+ | CRM setup, pipeline, segmentation |
+| Monthly newsletter management | ₹15,000+/month | Content, sends, analytics |
+| Marketing automation | ₹25,000+ | Lifecycle flows, triggers, deliverability setup |
+| Full email programme | ₹35,000+/month | Strategy, campaigns, deliverability monitoring |
+| Growth operations | ₹50,000+ | CRM + automation + reporting |
+| Enterprise CRM & marketing ops | ₹1,00,000+ | Multi-team, multi-channel |
 
 </details>
 
 <details>
-<summary><b>29 · College &amp; Academic Projects</b> — School exhibitions through final-year engineering</summary>
+<summary><b>SEO, Ads, Social & Content</b> — From ₹2,000</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| School Science Project | ₹3,000+ |
-| Diploma Mini Project | ₹5,000+ |
-| Engineering Mini Project | ₹8,000+ |
-| Final Year Project (software) | ₹15,000+ |
-| Final Year Project (hardware) | ₹20,000+ |
-| Final Year Project (hardware + software) | ₹25,000+ |
-| IEEE Paper-Based Project | ₹35,000+ |
-| Complete Project + Docs + Viva | ₹40,000+ |
-
-</details>
-
-<details>
-<summary><b>30 · IEEE Paper Writing &amp; Publication Support</b> — Conference & journal papers · Submission guidance</summary>
-
-| Service | Price |
-|:---|:---:|
-| Paper Review & Editing | ₹5,000+ |
-| Full Paper Writing (conference) | ₹15,000+ |
-| Full Paper Writing (journal) | ₹25,000+ |
-| Journal Submission Support | ₹8,000+ |
-| Complete Publication Package | ₹40,000+ |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
-
-### 🎓 Section D — Academic & Research
-
-<details>
-<summary><b>31 · Patent Filing Support</b> — Prior art search · Drafting · Filing guidance</summary>
-
-| Service | Price |
-|:---|:---:|
-| Prior Art Search | ₹5,000+ |
-| Patent Drafting (provisional) | ₹15,000+ |
-| Patent Drafting (complete) | ₹25,000+ |
-| Filing Support | ₹8,000+ |
-| Complete Patent Package | ₹40,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Blog post (1,000 words) | ₹2,000+ | Researched and edited |
+| Technical article | ₹5,000+ | In-depth technical content |
+| Social media captions | ₹5,000+/month | Monthly caption writing |
+| Google Business Profile setup | ₹5,000+ | Profile, categories, photos |
+| Review management | ₹5,000+/month | Monitoring and responses |
+| SEO audit | ₹8,000+ | Technical and content audit |
+| Google Ads setup | ₹8,000+ | Account, campaigns, tracking |
+| Meta Ads setup | ₹8,000+ | Facebook / Instagram campaigns |
+| Case study | ₹8,000+ | Client-approved success story |
+| Social content creation only | ₹10,000+/month | Posts and creatives |
+| On-page SEO setup | ₹15,000+ | Metadata, structure, schema |
+| Local SEO retainer | ₹15,000+/month | Local rankings and listings |
+| Social media management (1 platform) | ₹15,000+/month | Planning, posting, reporting |
+| Whitepaper | ₹15,000+ | Long-form authority content |
+| User manual | ₹15,000+ | End-user documentation |
+| API documentation | ₹18,000+ | Developer reference |
+| Monthly SEO retainer | ₹25,000+/month | Ongoing optimisation |
+| Ads campaign management | ₹25,000+/month | Google or Meta |
+| Full local package | ₹25,000+/month | GBP, local SEO, reviews |
+| Social media management (2 platforms) | ₹25,000+/month | Two platforms |
+| Product documentation | ₹25,000+ | Complete product docs |
+| Full social media management | ₹40,000+/month | All major platforms |
+| Full paid ads | ₹50,000+/month | Multi-platform paid campaigns |
+| Full digital marketing | ₹75,000+/month | SEO, ads, social, content |
 
 </details>
 
 <details>
-<summary><b>32 · Research &amp; Development Consulting</b> — Feasibility studies · Prototype & product R&amp;D</summary>
+<summary><b>IT Support & Business Software</b> — From ₹600 · Doorstep available in Chennai</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Technology Feasibility Study | ₹25,000+ |
-| Prototype R&D | ₹50,000+ |
-| Product R&D | ₹1,50,000+ |
-| Custom R&D | Custom Quote |
-
-</details>
-
-<details>
-<summary><b>33 · Embedded Firmware Development</b> — Custom firmware · IoT devices · Drivers · RTOS</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic Firmware | ₹15,000+ |
-| Advanced Firmware | ₹35,000+ |
-| RTOS-Based System | ₹60,000+ |
-| Full Product Firmware | ₹1,00,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| MS Office installation | ₹600+ | Licensed installation and activation |
+| Doorstep visit | ₹600+ | Within Chennai |
+| Virus / malware removal | ₹1,000+ | Scan, cleanup, protection setup |
+| Windows clean install | ₹1,000+ | Fresh OS with drivers |
+| Data backup (100GB) | ₹1,800+ | Verified backup to your media |
+| Full system restore (with backup) | ₹4,000+ | ₹4,000–8,000 · backup, reinstall, restore data and apps |
+| ERP / accounting setup (Tally, Zoho) | ₹8,000+ | GST-ready configuration |
+| ERP annual support | ₹12,000+/year | Ongoing help |
+| ERP training & handover | ₹15,000+ | Staff training |
+| Full ERP implementation | ₹35,000+ | Setup, migration, training |
 
 </details>
 
 <details>
-<summary><b>34 · DPDP Compliance Audit &amp; Setup</b> — Data protection compliance for Indian businesses</summary>
+<summary><b>PC Builds & Hardware Repair</b> — From ₹500 · Doorstep available in Chennai</summary>
+<br/>
 
-| Package | Price |
-|:---|:---:|
-| Compliance Audit | ₹8,000+ |
-| Policy Drafting | ₹15,000+ |
-| Full Implementation | ₹35,000+ |
-| Enterprise Compliance | ₹75,000+ |
-
-</details>
-
-<details>
-<summary><b>35 · Custom AI Prompt Packs for Industries</b> — Healthcare · Legal · Education</summary>
-
-| Package | Price |
-|:---|:---:|
-| Single Industry Pack | ₹2,000+ |
-| 3-Pack Bundle | ₹5,000+ |
-| Custom Enterprise Pack | ₹15,000+ |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
-
-### ☁️ Section E — Infrastructure, Cloud & Compliance
-
-<details>
-<summary><b>36 · Server Setup &amp; Management</b> — Email servers · DNS · SSL · Cloud · Monitoring</summary>
-
-| Service | Price |
-|:---|:---:|
-| Single Server Setup | ₹8,000+ |
-| Email Server Setup | ₹12,000+ |
-| Multi-Server Setup | ₹25,000+ |
-| Cloud Infrastructure Design | ₹40,000+ |
-| Monitoring & Maintenance | ₹8,000+/month |
-| Emergency Server Recovery | ₹15,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Hardware diagnostics | ₹500+ | Fault identification |
+| Mobile troubleshooting | ₹600+ | Software and hardware checks |
+| PC build consultation | ₹800+ | Parts list for your budget and workload |
+| Screen replacement (labour) | ₹800+ | Parts billed at cost |
+| Laptop troubleshooting | ₹1,000+ | Diagnosis and repair |
+| Component-level diagnosis | ₹1,200+ | Board-level fault finding |
+| Component sourcing help | ₹1,500+ | Sourcing and price comparison |
+| Desktop assembly (labour only) | ₹2,000+ | Assembly, cable management, BIOS |
+| OS + drivers + software | ₹2,000+ | Ready-to-use setup |
+| Gaming PC assembly | ₹4,000+ | Assembly, tuning, stress testing |
+| Workstation / AI PC build | ₹6,000+ | GPU workstation setup and validation |
 
 </details>
 
 <details>
-<summary><b>37 · Data Recovery Services</b> — HDD · SSD · Pen drives · Memory cards · Formatted drives</summary>
+<summary><b>Data Recovery</b> — From ₹2,000 · Doorstep pickup available in Chennai</summary>
+<br/>
 
-| Service | Price |
-|:---|:---:|
-| Deleted File Recovery | ₹3,000+ |
-| Corrupted Data Recovery | ₹5,000+ |
-| Formatted Drive Recovery | ₹8,000+ |
-| Hard Disk Failure Recovery | ₹15,000+ |
-| SSD Recovery | ₹18,000+ |
-| Pen Drive / Memory Card | ₹2,000+ |
-| Emergency Priority | ₹25,000+ |
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| Pen drive / memory card | ₹2,000+ | Removable media |
+| Deleted file recovery | ₹2,500+ | Accidentally deleted files |
+| Corrupted file recovery | ₹4,500+ | Damaged files and partitions |
+| Formatted drive recovery | ₹7,000+ | Formatted HDD / SSD / USB |
+| HDD failure recovery | ₹12,000+ | Failing or clicking drives |
+| SSD recovery | ₹15,000+ | Logical and controller-level issues |
+| Emergency 24h recovery | ₹20,000+ | Priority handling |
 
-</details>
-
-<details>
-<summary><b>38 · Cloud Architecture &amp; DevOps</b> — Docker · Kubernetes · CI/CD · Monitoring</summary>
-
-| Package | Price |
-|:---|:---:|
-| Cloud Migration | ₹25,000+ |
-| Docker Containerization | ₹15,000+ |
-| Kubernetes Setup | ₹40,000+ |
-| CI/CD Pipeline | ₹25,000+ |
-| Cloud Security Review | ₹35,000+ |
-| Full Cloud Architecture | ₹75,000+ |
-| Monitoring & Alerting | ₹20,000+ |
+Recovery outcomes depend on the condition of the media. The drive is diagnosed before any recovery charge is confirmed.
 
 </details>
 
 <details>
-<summary><b>39 · Cloud Migration &amp; DevOps Consulting</b> — Cost optimization · Infra audits · Transformation</summary>
-
-| Package | Price |
-|:---|:---:|
-| Cloud Readiness Audit | ₹15,000+ |
-| Single App Migration | ₹30,000+ |
-| Multi-App Migration | ₹75,000+ |
-| Full Cloud Transformation | ₹2,00,000+ |
-| Monthly DevOps Retainer | ₹25,000+/month |
-
-</details>
-
-<details>
-<summary><b>40 · AI/ML Model Development &amp; Training</b> — Computer vision · NLP/LLM · Fine-tuning · Deployment</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic ML Model | ₹25,000+ |
-| Custom AI Model | ₹50,000+ |
-| Deep Learning Solution | ₹1,00,000+ |
-| Computer Vision Model | ₹75,000+ |
-| NLP / LLM Solution | ₹1,50,000+ |
-| Custom AI Training | ₹75,000+ |
-
-</details>
-
-<details>
-<summary><b>41 · Penetration Testing &amp; Bug Bounty</b> — Vulnerability disclosure · CVE reporting · Security research</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic Bug Bounty Retainer | ₹25,000+/month |
-| Website Bug Bounty | ₹40,000+ |
-| Application Bug Bounty | ₹75,000+ |
-| Full Security Research | Custom Quote |
-
-</details>
-
-<details>
-<summary><b>42 · Compliance &amp; Security Audit</b> — ISO 27001 · SOC 2 · GDPR · DPDP Act</summary>
-
-| Service | Price |
-|:---|:---:|
-| Security Policy Drafting | ₹15,000+ |
-| GDPR Compliance Review | ₹40,000+ |
-| DPDP Act Compliance | ₹35,000+ |
-| ISO 27001 Readiness | ₹1,00,000+ |
-| SOC 2 Readiness | ₹1,50,000+ |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
-
-### 🌐 Section F — Platform, Integration & Growth Services
-
-<details>
-<summary><b>43 · Domain &amp; Hosting Reselling</b> — Registration · Hosting · Email hosting · SSL · DNS</summary>
-
-| Service | Price |
-|:---|:---:|
-| Domain Registration | ₹1,000+/year |
-| Shared Hosting | ₹3,000+/year |
-| VPS Setup | ₹8,000+/year |
-| Email Hosting | ₹2,000+/user/year |
-| SSL Certificate | ₹1,500+ |
-| DNS Management | ₹800+ |
-| Complete Setup | ₹5,000+ |
-
-</details>
-
-<details>
-<summary><b>44 · E-Commerce Store Setup</b> — Shopify · WooCommerce · Custom · Payment integration</summary>
-
-| Package | Price |
-|:---|:---:|
-| Shopify Basic | ₹20,000+ |
-| WooCommerce Store | ₹35,000+ |
-| Custom E-Commerce | ₹75,000+ |
-| Full Store + Marketing | ₹1,20,000+ |
-
-</details>
-
-<details>
-<summary><b>45 · WhatsApp Business API Integration</b> — Chatbots · Broadcast · Appointment booking</summary>
-
-| Package | Price |
-|:---|:---:|
-| WhatsApp Business Setup | ₹10,000+ |
-| WhatsApp Chatbot | ₹25,000+ |
-| Broadcast System | ₹18,000+ |
-| Full WhatsApp Solution | ₹50,000+ |
-| Monthly Retainer | ₹8,000+/month |
-
-</details>
-
-<details>
-<summary><b>46 · UI/UX Design &amp; App Bug Fixing</b> — Mobile app redesign · Troubleshooting · Optimization</summary>
-
-| Service | Price |
-|:---|:---:|
-| UI/UX Audit | ₹8,000+ |
-| Mobile App UI Redesign | ₹25,000+ |
-| Bug Diagnosis & Fix | ₹2,000+/bug |
-| UI/UX Fix Package | ₹12,000+ |
-| Front-End Optimization | ₹15,000+ |
-
-</details>
-
-<details>
-<summary><b>47 · Technical Training &amp; Workshops</b> — Cybersecurity · AI/ML · Python · IoT · Ethical hacking</summary>
-
-| Package | Price |
-|:---|:---:|
-| College Workshop (2 hrs) | ₹8,000+ |
-| College Workshop (full day) | ₹20,000+ |
-| Corporate Training (half day) | ₹35,000+ |
-| Corporate Training (full day) | ₹60,000+ |
-| Multi-day Bootcamp | ₹1,50,000+ |
-| Online Course Creation | ₹75,000+ |
-
-</details>
-
-<details>
-<summary><b>48 · Game Development &amp; Interactive Apps</b> — Unity/Unreal prototypes · Gamified applications</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic Game Prototype | ₹35,000+ |
-| Interactive Web App | ₹50,000+ |
-| Mobile Game (basic) | ₹75,000+ |
-| Full Game Development | ₹2,00,000+ |
-
-</details>
-
-<details>
-<summary><b>49 · Motion Graphics &amp; Animation</b> — Explainer videos · Animated logos · Motion branding</summary>
-
-| Package | Price |
-|:---|:---:|
-| Animated Logo | ₹5,000+ |
-| Explainer Video (30s) | ₹15,000+ |
-| Motion Graphics Package | ₹25,000+ |
-| Full Animation Production | ₹75,000+ |
-
-</details>
-
-<details>
-<summary><b>50 · Logo &amp; Brand Identity Design</b> — Complete identity from logo to guidelines</summary>
-
-| Package | Price |
-|:---|:---:|
-| Logo Only | ₹3,000+ |
-| Logo + Brand Kit | ₹10,000+ |
-| Full Brand Identity | ₹25,000+ |
-| Brand Guidelines Document | ₹15,000+ |
-
-</details>
-
-<details>
-<summary><b>51 · Podcast &amp; Audio Production</b> — Editing · Mixing · Mastering · Distribution</summary>
-
-| Package | Price |
-|:---|:---:|
-| Episode Editing | ₹2,000+/episode |
-| Audio Mixing & Mastering | ₹3,000+/episode |
-| Full Podcast Package | ₹8,000+/episode |
-| Monthly Podcast Retainer | ₹15,000+/month |
-
-</details>
-
-<details>
-<summary><b>52 · UI/UX Design &amp; Figma Prototyping</b> — Wireframes · Prototypes · Design systems</summary>
-
-| Package | Price |
-|:---|:---:|
-| Wireframe Design | ₹8,000+ |
-| Figma Prototype | ₹15,000+ |
-| Design System | ₹35,000+ |
-| Full UI/UX Package | ₹75,000+ |
-
-</details>
-
-<details>
-<summary><b>53 · Solar + EV Charging Setup &amp; Maintenance</b> — Installation · Maintenance · Consultation</summary>
-
-| Package | Price |
-|:---|:---:|
-| Solar Consultation | ₹15,000+ |
-| EV Charger Installation | ₹25,000+ |
-| Solar + EV Bundle | ₹50,000+ |
-| Annual Maintenance | ₹10,000+/year |
-
-</details>
-
-<details>
-<summary><b>54 · AI Voice Agent Setup (Regional Languages)</b> — WhatsApp voice bots · Tamil · Hindi · Telugu</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic Voice Agent | ₹15,000+ |
-| Multi-Language Agent | ₹35,000+ |
-| Full Voice Solution | ₹75,000+ |
-| Monthly Management | ₹10,000+/month |
-
-</details>
-
-<details>
-<summary><b>55 · Invoice Automation &amp; Payment Reminders</b> — Automated billing · Reminders · Reconciliation</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic Automation | ₹8,000+ |
-| Full Invoice System | ₹25,000+ |
-| ERP Integration | ₹50,000+ |
-| Monthly Management | ₹8,000+/month |
-
-</details>
-
-<details>
-<summary><b>56 · YouTube Thumbnails &amp; Channel Branding</b> — Thumbnails · Channel art · Branding</summary>
-
-| Package | Price |
-|:---|:---:|
-| Single Thumbnail | ₹500+ |
-| Thumbnail Pack (10) | ₹4,000+ |
-| Channel Branding Kit | ₹10,000+ |
-| Monthly Thumbnail Package | ₹8,000+/month |
-
-</details>
-
-<details>
-<summary><b>57 · Presentation &amp; Pitch Deck Design</b> — Investor decks · Sales presentations</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic Presentation | ₹3,000+ |
-| Investor Pitch Deck | ₹10,000+ |
-| Full Presentation Package | ₹25,000+ |
-
-</details>
-
-<details>
-<summary><b>58 · Email Newsletter Setup &amp; Management</b> — Design · Automation · Analytics</summary>
-
-| Package | Price |
-|:---|:---:|
-| Newsletter Setup | ₹8,000+ |
-| Per Edition Design | ₹3,000+/edition |
-| Monthly Management | ₹15,000+/month |
-| Full Email Program | ₹35,000+/month |
-
-</details>
-
-<details>
-<summary><b>59 · Local SEO &amp; Google Business Profile</b> — Local visibility · Reviews · Rankings</summary>
-
-| Package | Price |
-|:---|:---:|
-| GBP Setup | ₹5,000+ |
-| Local SEO Retainer | ₹15,000+/month |
-| Review Management | ₹5,000+/month |
-| Full Local Package | ₹25,000+/month |
-
-</details>
-
-<details>
-<summary><b>60 · ERP / Accounting Software Setup</b> — Tally · Zoho · GST-compliant · Training</summary>
-
-| Package | Price |
-|:---|:---:|
-| Basic Setup | ₹8,000+ |
-| Full ERP Implementation | ₹35,000+ |
-| Training & Handover | ₹15,000+ |
-| Annual Support | ₹12,000+/year |
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
-
-### 🔐 Advanced Offensive Security — Flagship Division
-
-<details open>
-<summary><b>61 · Web Application Penetration Testing</b></summary>
-
-| Package | Scope | Price |
-|:---|:---|:---:|
-| Small App | 5–15 pages · basic auth | ₹25,000+ |
-| Medium App | E-commerce / SaaS · 15–50 endpoints | ₹60,000+ |
-| Large / Enterprise | Complex roles · 50+ endpoints | ₹1,50,000+ |
-| Web + API Combined | Full-stack security review | ₹1,20,000+ |
-| Full Multi-Asset | Web + API + cloud | ₹2,00,000+ |
-
-**Includes:** OWASP Top 10 testing · Authentication & authorization bypass · Business logic flaws · Injection attacks · XSS · CSRF · SSRF · IDOR · File upload vulnerabilities · API security · Token analysis · CVSS-scored vulnerability report · Proof-of-concept exploits · Remediation roadmap.
-
-</details>
-
-<details>
-<summary><b>62 · Website Hacked Recovery &amp; Malware Removal</b></summary>
-
-| Package | Includes | Price |
-|:---|:---|:---:|
-| Emergency Recovery | Cleanup · backup restore · root cause | ₹8,000+ |
-| Cleanup + Hardening | Recovery + firewall + policies | ₹15,000+ |
-| Full Package | Recovery + hardening + 30-day monitoring | ₹25,000+ |
-| Malware Removal Only | Per incident cleanup | ₹5,000+ |
-| Post-Hack Hardening | Firewall · backups · monitoring | ₹5,000–₹20,000 |
-
-**Includes:** Malware detection & removal · Backdoor identification · File integrity check · Database cleanup · SEO spam removal · Google blacklist removal · WAF setup · Backup configuration · Security policy implementation · 30-day post-recovery monitoring.
-
-</details>
-
-<details>
-<summary><b>63 · WordPress &amp; CMS Security Hardening</b></summary>
-
-| Package | Scope | Price |
-|:---|:---|:---:|
-| Basic Hardening | Plugin audit · config review · headers | ₹5,000+ |
-| Standard Hardening | Full audit + hardening + firewall | ₹10,000+ |
-| Advanced Hardening | Overhaul + WAF + backup system | ₹15,000+ |
-| Ongoing Management | Monthly updates + monitoring | ₹5,000+/month |
-| Full CMS Package | Audit + hardening + 3 months monitoring | ₹25,000+ |
-
-**Includes:** Plugin & theme vulnerability scan · Core file integrity check · wp-config hardening · File permission fixes · Security headers · Brute-force protection · WAF setup · Database security · Automated backups · Security documentation.
-
-</details>
-
-<details>
-<summary><b>64 · Red Team Assessment</b></summary>
-
-| Package | Scope | Price |
-|:---|:---|:---:|
-| Single App Target | Focused red team on one application | ₹75,000+ |
-| Network Simulation | Internal + external attack simulation | ₹1,20,000+ |
-| Full Red Team | Multi-vector (web, network, social, physical) | ₹2,00,000+ |
-| Enterprise Red Team | Long-term engagement · full coverage | ₹3,50,000+ |
-
-**Includes:** Adversary simulation using MITRE ATT&CK · Multi-stage attack chains · Social engineering (phishing, vishing) · Physical security testing · Lateral movement · Privilege escalation · Persistence techniques · Exfiltration simulation · Blue team coordination · Detection gap analysis · Executive-level reporting.
-
-</details>
-
-<details>
-<summary><b>65 · Bug Bounty Program Management</b></summary>
-
-| Package | Scope | Price |
-|:---|:---|:---:|
-| Basic Retainer | Program setup + monthly triage | ₹15,000+/month |
-| Standard Program | Multi-scope + researcher management | ₹35,000+/month |
-| Full Program | Complete program with rewards management | ₹75,000+/month |
-| One-Time Setup | Platform setup + policy + launch | ₹25,000+ |
-
-**Includes:** Program design · Platform selection & setup (HackerOne, Bugcrowd, YesWeHack) · Scope definition · Reward structure · Security policy drafting · Researcher onboarding · Vulnerability triage · Severity assessment · Remediation coordination · Monthly reporting.
+<summary><b>Additional Engineering Services</b> — From ₹600</summary>
+<br/>
+
+| Service | From | Typical Range · Scope |
+|:---|:---:|:---|
+| 3D printing — prototype | ₹600+ | Form and fit prototypes |
+| 3D printing — functional part | ₹2,000+ | End-use parts |
+| 3D printing — advanced part | ₹4,000+ | Complex or engineering-grade |
+| 3D printing — bulk / custom | Quote on request | Batch production |
+| CAD 2D drafting | ₹1,000+/drawing | Per drawing |
+| CAD 3D modelling | ₹1,800+/part | Per part |
+| 3D rendering | ₹1,000+/render | Product visualisation |
+| Reverse engineering | ₹5,000+ | Physical part to CAD |
+| Product design (CAD) | ₹8,000+ | Design for manufacture |
+| Assembly design | ₹12,000+ | Multi-part assemblies |
+| Architectural 3D | ₹15,000+ | Building visualisation |
+| Component selection & BOM | ₹1,500+ | Parts and bill of materials |
+| Circuit design | ₹2,500+ | Schematic design |
+| PCB design (1–2 layer) | ₹4,000+ | Layout and Gerbers |
+| PCB design (4 layer) | ₹8,000+ | Multi-layer layout |
+| Working model assembly | ₹6,000+ | Assembled and tested model |
+| Working prototype | ₹12,000+ | Functional prototype |
+| Arduino / ESP32 custom device | ₹10,000+ | Custom firmware and hardware |
+| Basic IoT prototype | ₹8,000+ | Sensors to cloud dashboard |
+| Industrial IoT solution | ₹50,000+ | MQTT, Node-RED, monitoring |
+| Custom embedded solution | ₹75,000+ | Product-grade embedded system |
+| Basic firmware | ₹15,000+ | Single-function firmware |
+| Advanced firmware | ₹35,000+ | Drivers, protocols, power management |
+| RTOS-based system | ₹60,000+ | Real-time systems |
+| Full product firmware | ₹1,00,000+ | Complete product firmware |
+| Single device control (home automation) | ₹2,500+ | One appliance |
+| Voice control integration | ₹3,000+ extra | Alexa / Google Assistant |
+| Sensor automation | ₹4,000+ | Motion, light, temperature triggers |
+| 4-channel automation | ₹5,500+ | Four controlled loads |
+| Motor / pump control | ₹8,000+ | Automatic water pump control |
+| 8-channel automation | ₹9,000+ | Eight controlled loads |
+| Home automation (1 room) | ₹10,000+ | Complete room setup |
+| Full home basic (4 rooms) | ₹40,000+ | Whole-home starter |
+| PLC programming | ₹10,000+ | Ladder logic and commissioning support |
+| HMI design & programming | ₹12,000+ | Operator screens |
+| Panel board design | ₹15,000+ | Control panel design |
+| SCADA setup | ₹25,000+ | Supervisory monitoring |
+| Industrial wiring & commissioning | ₹30,000+ | On-site commissioning |
+| Full automation system | ₹75,000+ | PLC + HMI + SCADA |
+| Full electrical wiring | ₹25,000+ | House or office |
+| Technology feasibility study | ₹25,000+ | Technical and cost feasibility |
+| Prototype R&D | ₹50,000+ | Research through working prototype |
+| Product R&D | ₹1,50,000+ | Prototype to production-ready |
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<a name="pricing"></a>
+<a name="recent-work"></a>
 
 <div align="center">
 
-## 📋 Master Price List
+## 🗂️ Recent Work
 
-**All 65 services · Starting prices**
+*Project types only. Client identities are kept confidential.*
 
 </div>
 
-| # | Service | From |
-|:---:|:---|:---:|
-| 01 | Project & Technical Consulting | ₹1,500+ |
-| 02 | Career & Personal Branding | ₹2,000+ |
-| 03 | Web Development | ₹12,000+ |
-| 04 | AI & Business Automation | ₹15,000+ |
-| 05 | Ethical Hacking & Security Assessment | ₹12,000+ |
-| 06 | Cyber Crime Investigation & Support | ₹5,000+ |
-| 07 | CRM & Marketing Automation | ₹12,000+ |
-| 08 | Mobile App Design & Development | ₹20,000+ |
-| 09 | SaaS Product Development | ₹2,00,000+ |
-| 10 | Startup MVP Development | ₹25,000+ |
-| 11 | 3D Printing & Custom Manufacturing | ₹499+ |
-| 12 | IT Support & System Services | ₹500+ |
-| 13 | PC Building & Hardware Assembly | ₹800+ |
-| 14 | CAD Design & 3D Modeling | ₹1,000+ |
-| 15 | HMI / PLC & Industrial Automation | ₹8,000+ |
-| 16 | Home Automation & Smart Home | ₹2,500+ |
-| 17 | Electrical Works & Wiring | ₹500+ |
-| 18 | Circuit Design & Working Model | ₹2,000+ |
-| 19 | IoT & Embedded Solutions | ₹8,000+ |
-| 20 | Hardware Repair & Diagnostics | ₹500+ |
-| 21 | Graphic Design & Print Services | ₹1,000+ |
-| 22 | Digital Invitations & Event Websites | ₹1,000+ |
-| 23 | Video Editing & Content Creation | ₹1,000+ |
-| 24 | Videography & Photography | ₹500+ |
-| 25 | Content Writing & Documentation | ₹2,000+ |
-| 26 | SEO & Digital Marketing | ₹8,000+ |
-| 27 | Google Ads & Paid Advertising | ₹8,000+ |
-| 28 | Social Media Management | ₹15,000+/mo |
-| 29 | College & Academic Projects | ₹3,000+ |
-| 30 | IEEE Paper Writing & Publication | ₹5,000+ |
-| 31 | Patent Filing Support | ₹5,000+ |
-| 32 | Research & Development Consulting | ₹25,000+ |
-| 33 | Embedded Firmware Development | ₹15,000+ |
-| 34 | DPDP Compliance Audit & Setup | ₹8,000+ |
-| 35 | Custom AI Prompt Packs | ₹2,000+ |
-| 36 | Server Setup & Management | ₹8,000+ |
-| 37 | Data Recovery Services | ₹2,000+ |
-| 38 | Cloud Architecture & DevOps | ₹15,000+ |
-| 39 | Cloud Migration & DevOps Consulting | ₹15,000+ |
-| 40 | AI/ML Model Development | ₹25,000+ |
-| 41 | Penetration Testing & Bug Bounty | ₹25,000+/mo |
-| 42 | Compliance & Security Audit | ₹15,000+ |
-| 43 | Domain & Hosting Reselling | ₹1,000+ |
-| 44 | E-Commerce Store Setup | ₹20,000+ |
-| 45 | WhatsApp Business API | ₹10,000+ |
-| 46 | UI/UX Design & App Bug Fixing | ₹8,000+ |
-| 47 | Technical Training & Workshops | ₹8,000+ |
-| 48 | Game Development & Interactive Apps | ₹35,000+ |
-| 49 | Motion Graphics & Animation | ₹5,000+ |
-| 50 | Logo & Brand Identity Design | ₹3,000+ |
-| 51 | Podcast & Audio Production | ₹2,000+ |
-| 52 | UI/UX Design & Figma Prototyping | ₹8,000+ |
-| 53 | Solar + EV Charging Setup | ₹15,000+ |
-| 54 | AI Voice Agent Setup | ₹15,000+ |
-| 55 | Invoice Automation & Payment Reminders | ₹8,000+ |
-| 56 | YouTube Thumbnail Design | ₹500+ |
-| 57 | Presentation & Pitch Deck Design | ₹3,000+ |
-| 58 | Email Newsletter Setup & Management | ₹3,000+ |
-| 59 | Local SEO & GBP Management | ₹5,000+ |
-| 60 | ERP / Accounting Software Setup | ₹8,000+ |
-| 61 | Web Application Penetration Testing | ₹25,000+ |
-| 62 | Website Hacked Recovery & Malware Removal | ₹8,000+ |
-| 63 | WordPress & CMS Security Hardening | ₹5,000+ |
-| 64 | Red Team Assessment | ₹75,000+ |
-| 65 | Bug Bounty Program Management | ₹15,000+/mo |
+| Project | Status |
+|:---|:---:|
+| A 16-page industrial automation company website with a custom 13-module CMS and DPDP-compliant legal pages | Delivered Q4 2026 |
+| A 5-page custom web build for a Singapore-based client with a JSON-template rendering engine | Delivered Q3 2026 |
+| A custom Intel i5 desktop build with Windows 11 Pro, Office 2021, and 500GB HDD data recovery | Delivered Q4 2026 |
+| An institutional ERP system for a Chennai engineering college | In active use |
+| A SaaS AI resume analyser built with the Gemini API and spaCy NLP, developed with a co-founder | Built · demo available on request |
+| Multiple small-business websites for Chennai-based salons, law schools and retail brands | Delivered |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center">
+
+**Full case studies and references available on request.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
 
 <div align="center">
 
@@ -1330,16 +829,40 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 | | |
 |:---|:---|
-| 🧩 **Hardware + Software + Security** | Under one roof — no juggling multiple vendors |
-| 🏆 **Research-grade work** | 2 IEEE publications and a national award |
-| 🔓 **100% client ownership** | Full source code handover, no lock-in |
-| 🛡️ **Security-first approach** | Built in from day one, not bolted on |
-| 📦 **Real deliverables** | No overpromising |
-| 🚪 **Doorstep service available** | For select on-site services |
-| 💼 **7+ years CRM & marketing ops** | Enterprise-grade deliverability expertise |
-| ⚡ **CUDA / LLM / MLOps capability** | Advanced AI when the project needs it |
+| 🧩 **Hardware + software + security** | One team covers the code, the device and the security review. |
+| 🔬 **Research-backed** | 2 IEEE-published research projects across 4 papers, and a national datathon placing. |
+| 🔓 **100% IP ownership** | Full source code, credentials and documentation handed over. No lock-in. |
+| 🕸️ **Curator-led network** | 8 specialists, one accountable lead, one written scope. |
+| 🏫 **Institutional experience** | An ERP system in active use at a Chennai engineering college. |
+| 🌏 **International delivery** | Remote delivery for clients outside India, including Singapore. |
+| 🛡️ **Security-first** | Hardening, compliance pages and secure defaults are part of the build. |
+| 🚪 **On the ground in Chennai** | Doorstep service for IT, hardware and data recovery. |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
+
+<a name="what-we-dont-do"></a>
+
+<div align="center">
+
+## 🚫 What We Don't Do
+
+*Knowing where our limits are is part of doing the work properly.*
+
+</div>
+
+| We don't… | Why |
+|:---|:---|
+| **Write academic or IEEE papers for others** | Ghostwriting violates IEEE authorship policy. We review your own work instead. |
+| **Build academic projects for submission, or prepare viva answers on them** | Submitting work someone else built is academic misconduct. We offer guidance and code review on your own work. |
+| **Offer SOC 2 readiness** | SOC 2 attestation requires a licensed CPA auditor. |
+| **Offer ISO 27001 readiness** | Certification requires an accredited certification body. |
+| **Run red team assessments** | Full adversary simulation requires security insurance cover we don't carry. |
+| **Manage bug bounty programmes** | This requires formal platform partnerships with HackerOne or Bugcrowd. |
+| **Install solar or EV charging systems** | These require a licensed electrical contractor. |
+| **File patents** | Patent filing in India requires a registered patent agent. |
+| **Quote a "standard price" and then discount it** | No inflate-then-discount theatre. The quote you get is the price. |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <a name="process"></a>
 
@@ -1349,56 +872,18 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 </div>
 
-<div align="center">
-
-**1️⃣ Discovery**
-
-*Free consultation to understand your requirement.*
-
-**2️⃣ Proposal**
-
-*Written scope, timeline and quote within 48 hours.*
-
-**3️⃣ Kickoff**
-
-*Advance payment received — project starts.*
-
-**4️⃣ Build & Review**
-
-*Regular updates and milestone reviews.*
-
-**5️⃣ Delivery**
-
-*Testing, documentation, full source code handover.*
-
-**6️⃣ Support**
-
-*30-day post-delivery warranty + optional retainer.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B28228,100:1C1C1C&height=1&width=100%"/>
-
-<div align="center">
-
-## 🚪 Doorstep Service Available For
-
-</div>
-
-<div align="center">
-
-![IT Support](https://img.shields.io/badge/IT_Support_%26_Systems-1C1C1C?style=for-the-badge&logo=windows&logoColor=FFE002)
-![Home Automation](https://img.shields.io/badge/Home_Automation-3B3B3B?style=for-the-badge&logo=homeassistant&logoColor=FFB606)
-![PC Building](https://img.shields.io/badge/PC_Building-1C1C1C?style=for-the-badge&logo=pcgamingwiki&logoColor=FFE002)
-![Data Recovery](https://img.shields.io/badge/Data_Recovery-3B3B3B?style=for-the-badge&logo=databricks&logoColor=FFB606)
-![Electrical](https://img.shields.io/badge/Electrical_Works-1C1C1C?style=for-the-badge&logo=electricity&logoColor=FFE002)
-![3D Printing](https://img.shields.io/badge/3D_Printing-3B3B3B?style=for-the-badge&logo=printables&logoColor=FFB606)
-![Hardware Repair](https://img.shields.io/badge/Hardware_Repair-1C1C1C?style=for-the-badge&logo=ifixit&logoColor=FFE002)
-![Print Delivery](https://img.shields.io/badge/Print_Materials-3B3B3B?style=for-the-badge&logo=print&logoColor=FFB606)
-
-</div>
+| Step | Stage | What happens |
+|:---:|:---|:---|
+| **1** | **Discovery** | Free consultation to understand the requirement. |
+| **2** | **Proposal** | Written scope, timeline and quote within 48 hours. |
+| **3** | **Kickoff** | Advance received, project starts. |
+| **4** | **Build & Review** | Regular updates and milestone reviews with your written sign-off. |
+| **5** | **Delivery** | Testing, documentation and full source code handover. |
+| **6** | **Support** | 30-day post-delivery warranty, with an optional retainer after that. |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1C1C,100:B28228&height=1&width=100%"/>
+
+<a name="pricing"></a>
 
 <div align="center">
 
@@ -1406,28 +891,33 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 
 </div>
 
-**What affects final pricing**
+**What affects the final quote**
 
-- Scope and complexity
-- Materials / components required
-- Timeline — rush jobs +25%
-- Revisions and iterations
-- Third-party platform fees (pass-through)
-- GST (if applicable)
+| Factor | How it applies |
+|:---|:---|
+| Scope and complexity | Pages, features, integrations, endpoints |
+| Materials and components | Hardware, parts and print materials billed at cost |
+| Timeline | Rush delivery adds 25% |
+| Revisions | Revision rounds are fixed in the written scope |
+| Third-party fees | Domains, hosting, licences and platform fees passed through at cost |
+| GST | See operating status below |
 
-**Payment structure**
+**Payment terms**
 
-- Under ₹25,000 — **50% advance**
-- Above ₹25,000 — **30% advance + 40% milestone + 30% on delivery**
-- 3D printing, print materials, small services — **100% upfront**
+| Project value | Terms |
+|:---|:---|
+| Under ₹10,000 | 100% upfront |
+| ₹10,000–₹40,000 | 50% advance · 50% on delivery |
+| Above ₹40,000 | 30% advance · 40% at milestone · 30% on delivery |
+| 3D printing and print materials | 100% upfront |
 
-**What's NOT included**
+**Not included unless stated in the scope**
 
-- Domain and hosting fees (billed at cost)
-- Third-party software licenses
-- Stock photography / premium fonts
-- Content writing (available as add-on)
-- Scope additions after approval
+Domain and hosting fees · third-party software licences · stock photography and premium fonts · content writing (available as an add-on) · scope additions after approval.
+
+**Operating status**
+
+> Currently operating as a sole proprietorship registered in Chennai, Tamil Nadu. Not GST-registered as of October 2026. GSTIN available from Q1 2027. For clients needing GST invoicing now, we partner with an invoicing intermediary at a 2% fee. *(See [FAQ #3](#faq) for details.)*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -1442,43 +932,49 @@ Every engagement runs on a **written scope, milestone reviews, and full document
 <details>
 <summary><b>1. Do you work with clients outside Chennai?</b></summary>
 <br/>
-Yes — we serve clients across India remotely via email, WhatsApp and video calls. Doorstep service is available within Chennai.
+Yes. We work with clients across India and internationally, remotely over email, WhatsApp and video calls. Doorstep services (IT support, hardware, data recovery, installations) are available within Chennai.
 </details>
 
 <details>
-<summary><b>2. What is your payment structure?</b></summary>
+<summary><b>2. Do I own the source code?</b></summary>
 <br/>
-50% advance for projects under ₹25,000. For larger projects: 30% advance + 40% at milestone + 30% on delivery. Small services and print materials are 100% upfront.
+Yes, 100%. Source code, design files, credentials and documentation are handed over on completion. There is no vendor lock-in and no requirement to host with us.
 </details>
 
 <details>
-<summary><b>3. Do I own the source code?</b></summary>
+<summary><b>3. Do you offer GST invoices?</b></summary>
 <br/>
-100% yes. Full source code and IP handed over upon completion. No vendor lock-in.
+We are a sole proprietorship and are not GST-registered as of October 2026. Our GSTIN will be available from Q1 2027. If you need a GST invoice now, we route billing through an invoicing intermediary at a 2% fee.
 </details>
 
 <details>
-<summary><b>4. How do you handle scope changes?</b></summary>
+<summary><b>4. What is your payment structure?</b></summary>
 <br/>
-Written change request before new work begins. Small clarifications are absorbed; significant additions are quoted separately.
+Under ₹10,000: 100% upfront. ₹10,000–₹40,000: 50% advance and 50% on delivery. Above ₹40,000: 30% advance, 40% at milestone and 30% on delivery. 3D printing and print materials are 100% upfront.
 </details>
 
 <details>
-<summary><b>5. Do you offer GST invoices?</b></summary>
+<summary><b>5. How do you handle scope changes?</b></summary>
 <br/>
-We currently operate as an independent consultancy; GST registration is in progress.
+Any change goes through a written change request before new work begins. Small clarifications are absorbed; significant additions are quoted separately and start only after your approval.
 </details>
 
 <details>
-<summary><b>6. What if I'm not satisfied?</b></summary>
+<summary><b>6. Is there a warranty?</b></summary>
 <br/>
-We work in stages with your written approval at each milestone. If cancelled mid-way, you pay only for completed work.
+Yes. All software deliverables carry a 30-day post-delivery warranty against defects in the agreed scope. Extended support is available through a maintenance retainer.
 </details>
 
 <details>
-<summary><b>7. Is there a warranty?</b></summary>
+<summary><b>7. What happens if I cancel partway through?</b></summary>
 <br/>
-30-day post-delivery warranty on all software deliverables. Extended support available via a maintenance retainer.
+Work is delivered in stages with your written approval at each milestone. If a project is cancelled mid-way, you pay only for work completed up to that point and receive everything delivered so far.
+</details>
+
+<details>
+<summary><b>8. Who will actually work on my project?</b></summary>
+<br/>
+The founder is your single point of contact and accountable lead. The work is assigned to the specialist on the team best suited to it, and your written proposal states who is doing what.
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -1487,22 +983,26 @@ We work in stages with your written approval at each milestone. If cancelled mid
 
 <div align="center">
 
-## 🤝 Let's Build Something Together
+## 🤝 Contact
 
-**Free consultation for all new enquiries.**<br/>
-**We respond within 24 hours on business days.**
+**Free consultation for all new enquiries. We respond within 24 hours on business days.**
 
 <br/>
 
-<a href="https://wa.me/918754748489"><img src="https://img.shields.io/badge/💬_WhatsApp_Us_Now-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=FFE002" alt="WhatsApp"/></a>
-<a href="mailto:srvdigitalsystemssolutions@gmail.com"><img src="https://img.shields.io/badge/✉_Send_an_Email-3B3B3B?style=for-the-badge&logo=gmail&logoColor=FFB606" alt="Email"/></a>
+<a href="https://wa.me/918754748489"><img src="https://img.shields.io/badge/WhatsApp-%2B91_87547_48489-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=FFE002" alt="WhatsApp"/></a>
+<a href="tel:+918754748489"><img src="https://img.shields.io/badge/Phone-%2B91_87547_48489-3B3B3B?style=for-the-badge&logo=phone&logoColor=FFB606" alt="Phone"/></a>
 <br/>
-<a href="https://srvdigitalsystemssolutions.com"><img src="https://img.shields.io/badge/🌐_Visit_Our_Website-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=FFE002" alt="Website"/></a>
-<a href="https://github.com/srvdigitalsystemssolutions"><img src="https://img.shields.io/badge/⚡_Follow_on_GitHub-3B3B3B?style=for-the-badge&logo=github&logoColor=FFB606" alt="GitHub"/></a>
+<a href="mailto:srvdigitalsystemssolutions@gmail.com"><img src="https://img.shields.io/badge/Email-srvdigitalsystemssolutions%40gmail.com-1C1C1C?style=for-the-badge&logo=gmail&logoColor=FFE002" alt="Email"/></a>
+<br/>
+<a href="https://srvdigitalsystemssolutions.com"><img src="https://img.shields.io/badge/Website-srvdigitalsystemssolutions.com-3B3B3B?style=for-the-badge&logo=googlechrome&logoColor=FFB606" alt="Website"/></a>
+<br/>
+<a href="https://www.instagram.com/srvdigitalsystemssolutions"><img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=FFE002" alt="Instagram"/></a>
+<a href="https://www.facebook.com/profile.php?id=61594957097879"><img src="https://img.shields.io/badge/Facebook-3B3B3B?style=for-the-badge&logo=facebook&logoColor=FFB606" alt="Facebook"/></a>
+<a href="https://github.com/srvdigitalsystemssolutions"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=FFE002" alt="GitHub"/></a>
 
 <br/><br/>
 
-📍 **Chennai, Tamil Nadu, India** 🇮🇳
+📍 **Chennai, Tamil Nadu, India**
 
 </div>
 
@@ -1512,7 +1012,6 @@ We work in stages with your written approval at each milestone. If cancelled mid
 
 <div align="center">
 
-© 2026 **SRV Digital Systems & Solutions**. All rights reserved.
-Made with ❤️ + ☕ in Chennai 🇮🇳
+© 2026 SRV Digital Systems & Solutions · Sole Proprietor · Chennai, India
 
 </div>
