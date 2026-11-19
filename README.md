@@ -244,7 +244,7 @@ Embedded and hardware prototyping in C++
 <tr>
 <td align="center" width="50%" valign="top">
 
-<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="110" alt="Venkatramanujam N N"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Venkatramanujam-N-N.png" width="110" alt="Venkatramanujam N N"/>
 
 ### Venkatramanujam N N
 
@@ -261,7 +261,7 @@ Functional and industrial part production
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="110" alt="Pallanivelraji P"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Pallanivelraji-P.jpeg" width="110" alt="Pallanivelraji P"/>
 
 ### Pallanivelraji P
 
