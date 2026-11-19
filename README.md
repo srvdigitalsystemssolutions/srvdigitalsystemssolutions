@@ -176,7 +176,7 @@ Assistive-technology footwear for visually-impaired users
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="110" alt="Guru Prasad B"/>
+<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Guru-Prasad-B.jpeg" width="110" alt="Guru Prasad B"/>
 
 ### Guru Prasad B
 
