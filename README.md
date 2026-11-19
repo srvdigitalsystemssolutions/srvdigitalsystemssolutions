@@ -7,7 +7,7 @@
 ### Secure Systems. Reliable Solutions. Delivered.
 
 <a href="https://github.com/srvdigitalsystemssolutions">
-<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1200&color=FFE002&center=true&vCenter=true&width=720&lines=Secure+Systems.+Reliable+Solutions.+Delivered.;Web+%C2%B7+SaaS+%C2%B7+Security+%C2%B7+Hardware+%C2%B7+Design;8+Specialists.+One+Brand.+Chennai%2C+India.;Open+for+Business+%E2%80%94+Reply+within+24h" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1200&color=FFE002&center=true&vCenter=true&width=720&lines=Secure+Systems.+Reliable+Solutions.+Delivered.;Web+%C2%B7+SaaS+%C2%B7+Security+%C2%B7+Hardware+%C2%B7+Design;9+Specialists.+One+Brand.+Chennai%2C+India.;Open+for+Business+%E2%80%94+Reply+within+24h" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 
 <br/>
 
-*Last updated: October 2026*
+*Last updated: November 2026*
 
 </div>
 
@@ -42,7 +42,7 @@
 
 </div>
 
-**SRV Digital Systems & Solutions** is a Chennai-based technology consultancy. We are a curator-led specialist network: eight independent specialists in software, security, AI, embedded hardware, marketing operations, media and manufacturing, coordinated under one brand, one point of contact and one written scope. You deal with a single accountable lead; the work is done by the person on the team best qualified for it.
+**SRV Digital Systems & Solutions** is a Chennai-based technology consultancy. We are a curator-led specialist network: nine independent specialists in software, security, AI, embedded hardware, CRM and B2B marketing, interactive media and manufacturing, coordinated under one brand, one point of contact and one written scope. You deal with a single accountable lead; the work is done by the person on the team best qualified for it.
 
 We build and secure the systems small and growing organisations run on. That means business websites and content-managed sites, e-commerce stores, custom web applications, SaaS products and institutional ERP systems; website security audits, malware recovery and authorised penetration testing; IT support, custom PC builds and data recovery; and brand identity, print and media design. Where a project crosses disciplines — a website that needs a security review, a prototype that needs firmware and a 3D-printed enclosure — we handle it end to end instead of handing you off to three vendors.
 
@@ -65,7 +65,7 @@ We work with Chennai small and mid-sized businesses, early-stage startups, educa
 
 ## 🌟 The Team
 
-*Three heads. Two senior practitioners. Three technical specialists. One standard.*
+*Three heads. Two senior practitioners. Four technical specialists. One standard.*
 
 </div>
 
@@ -74,8 +74,8 @@ We work with Chennai small and mid-sized businesses, early-stage startups, educa
 | Tier | Role | People |
 |:---|:---|:---|
 | **Heads** | Set direction, own client relationships and sign off on scope | Sriram V · Vishwa Rathinam S · Ganesh S |
-| **Senior Practitioners** | Lead delivery within their discipline | Venkat Charan V · Praveen CK |
-| **Technical Specialists** | Hands-on engineering, interactive and manufacturing work | Siranjeevee R · Varun G · Venkatramanujam N N |
+| **Senior Practitioners** | Lead delivery within their discipline | Venkat Charan V · Guru Prasad B |
+| **Technical Specialists** | Hands-on engineering, interactive and manufacturing work | Siranjeevee R · Varun G · Venkatramanujam N N · Pallanivelraji P |
 
 </div>
 
@@ -94,7 +94,7 @@ We work with Chennai small and mid-sized businesses, early-stage startups, educa
 
 ### Sriram V
 
-![Founder & CEO](https://img.shields.io/badge/FOUNDER_%26_CEO-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
+![Founder](https://img.shields.io/badge/FOUNDER-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
 **Cybersecurity · AI Security · Cloud Architecture · Full-Stack · Mechatronics**
 
@@ -113,7 +113,7 @@ IBM internship (6 months) · 55+ professional certifications
 
 ### Vishwa Rathinam S
 
-![Director — AI & Systems](https://img.shields.io/badge/DIRECTOR_%E2%80%94_AI_%26_SYSTEMS-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
+![CEO — AI & Systems](https://img.shields.io/badge/CEO_%E2%80%94_AI_%26_SYSTEMS-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
 **Machine Learning · LLM Fine-Tuning · CUDA/GPU · Computer Vision · MLOps · Embedded**
 
@@ -143,6 +143,7 @@ Email deliverability consultant for US-based Vyrian, Inc. — 98%+ delivery rate
 Klaviyo Deliverability Certified
 
 <a href="https://www.linkedin.com/in/ganesh-shankar-98bab5179/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
+<a href="https://ganeshshankar-portfolio.gmarketingservices.in/"><img src="https://img.shields.io/badge/Portfolio-1C1C1C?style=flat-square&logo=googlechrome&logoColor=FFE002"/></a>
 
 </td>
 </tr>
@@ -175,20 +176,22 @@ Assistive-technology footwear for visually-impaired users
 </td>
 <td align="center" width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/srvdigitalsystemssolutions/srvdigitalsystemssolutions/main/images/Praveen-CK.png" width="110" alt="Praveen CK"/>
+<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="110" alt="Guru Prasad B"/>
 
-### Praveen CK
+### Guru Prasad B
 
-![Editor & Media Lead](https://img.shields.io/badge/EDITOR_%26_MEDIA_LEAD-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
+![Digital Marketing & Lead Generation](https://img.shields.io/badge/DIGITAL_MARKETING_%26_LEAD_GENERATION-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
 
-**Video Editing · Media Production · Visual Storytelling · Brand Design**
+**B2B Marketing · Lead Generation · LinkedIn Marketing · Email Campaigns · Event Marketing**
 
-Video editing and post-production<br/>
-Social media content, reels and media direction<br/>
-Logo and brand identity design
+B.Tech Artificial Intelligence & Data Science — Saveetha Engineering College<br/>
+Digital Marketing Executive — Precise3DM Metrology, Chennai<br/>
+B2B outreach across automotive, aerospace, manufacturing, medical and defence<br/>
+Ran 2 industry expos end-to-end, plus a conference and an Open House event<br/>
+Prospect research with LinkedIn Sales Navigator, Apollo and Apify
 
-<a href="https://www.linkedin.com/in/praveen-chandru-05a412286/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
-<a href="https://github.com/praveenck23009864"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
+<a href="https://www.linkedin.com/in/guru-prasad-08ab2527a/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
+<a href="https://github.com/Gurupasad"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
 
 </td>
 </tr>
@@ -239,7 +242,7 @@ Embedded and hardware prototyping in C++
 </td>
 </tr>
 <tr>
-<td align="center" width="100%" colspan="2" valign="top">
+<td align="center" width="50%" valign="top">
 
 <img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="110" alt="Venkatramanujam N N"/>
 
@@ -254,6 +257,26 @@ Design-to-print fulfilment, CAD to physical part<br/>
 Functional and industrial part production
 
 <a href="https://www.instagram.com/nvs3d_reality"><img src="https://img.shields.io/badge/Instagram-1C1C1C?style=flat-square&logo=instagram&logoColor=FFE002"/></a>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="https://placehold.co/240x240/1C1C1C/FFE002?text=SRV&font=montserrat" width="110" alt="Pallanivelraji P"/>
+
+### Pallanivelraji P
+
+![Software Engineer — Web & Backend](https://img.shields.io/badge/SOFTWARE_ENGINEER_%E2%80%94_WEB_%26_BACKEND-1C1C1C?style=flat-square&labelColor=1C1C1C&color=FFE002)
+
+**Python · JavaScript · Java · SQL · Backend Development · IoT Dashboards**
+
+B.E. Computer Science — SIMATS School of Engineering, Saveetha Institute<br/>
+Software Engineer Trainee — GSHEPH Technology (Web Development & Backend)<br/>
+Smart energy-monitoring system with ESP32/Arduino sensors and live dashboards<br/>
+AI malware-detection web demo with an AI-agent chatbot<br/>
+Excellence in Engineering Award 2025 — Tamil Thai Foundation
+
+<a href="https://www.linkedin.com/in/palanivelraj-p/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=flat-square&logo=linkedin&logoColor=FFE002"/></a>
+<a href="https://github.com/palanivelrajp"><img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=FFE002"/></a>
 
 </td>
 </tr>
@@ -278,7 +301,7 @@ Functional and industrial part production
 | **Cloud & DevOps** | AWS · GCP · IBM Cloud · Docker · Kubernetes · Nginx · GitLab CI · Prometheus · Grafana |
 | **Embedded & Hardware** | Arduino · ESP32 · Raspberry Pi · C · C++ · Rust · MQTT · Node-RED · KiCad · EasyEDA · PLC · SCADA |
 | **CAD & Manufacturing** | AutoCAD · SolidWorks · Fusion 360 · Revit · Blender · Bambu Lab |
-| **CRM & Marketing** | HubSpot · Klaviyo · Mailchimp · Brevo · Apollo.io · Smartlead · Instantly |
+| **CRM & Marketing** | HubSpot · Klaviyo · Mailchimp · Brevo · Apollo.io · Smartlead · Instantly · LinkedIn Sales Navigator · Apify |
 | **Design & Media** | Figma · Photoshop · Illustrator · Canva · Premiere Pro · CapCut |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -391,7 +414,6 @@ Larger enterprise SaaS scopes are quoted individually after discovery.
 | Multi-language voice agent | ₹35,000+ | Multiple languages, call routing |
 | Full voice solution | ₹75,000+ | End-to-end voice workflows |
 | Voice agent management | ₹10,000+/month | Monitoring and updates |
-| Invoice automation (basic) | ₹8,000+ | Automated invoices and payment reminders |
 | Full invoice system | ₹25,000+ | Billing, reminders, reconciliation |
 | Invoice + ERP integration | ₹50,000+ | Connected to your accounting system |
 | Invoice automation management | ₹8,000+/month | Ongoing support |
@@ -832,7 +854,7 @@ Recovery outcomes depend on the condition of the media. The drive is diagnosed b
 | 🧩 **Hardware + software + security** | One team covers the code, the device and the security review. |
 | 🔬 **Research-backed** | 2 IEEE-published research projects across 4 papers, and a national datathon placing. |
 | 🔓 **100% IP ownership** | Full source code, credentials and documentation handed over. No lock-in. |
-| 🕸️ **Curator-led network** | 8 specialists, one accountable lead, one written scope. |
+| 🕸️ **Curator-led network** | 9 specialists, one accountable lead, one written scope. |
 | 🏫 **Institutional experience** | An ERP system in active use at a Chennai engineering college. |
 | 🌏 **International delivery** | Remote delivery for clients outside India, including Singapore. |
 | 🛡️ **Security-first** | Hardening, compliance pages and secure defaults are part of the build. |
